@@ -25,15 +25,17 @@ Comprehensive 2026 U.S. House elections dataset with seat classifications, candi
 
 ## Classification buckets
 
+The site and exported data are normalized to the 7 headline categories:
+
 - Safe Democrat
 - Likely Democrat
-- Lean Democrat
-- Tilt Democrat
+- Lean/Tilt Democrat
 - Tossup
-- Tilt Republican
-- Lean Republican
+- Lean/Tilt Republican
 - Likely Republican
 - Safe Republican
+
+The underlying data may still include finer split labels in source exports, but the website displays them in this 7-bucket format.
 
 ## What’s in the database
 

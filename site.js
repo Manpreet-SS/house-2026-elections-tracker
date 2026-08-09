@@ -17,6 +17,8 @@ const categoryClass = (c) => ({
   'Lean Republican': 'lean-r',
   'Likely Republican': 'likely-r',
   'Safe Republican': 'safe-r',
+  'Tilt Democrat': 'lean-d',
+  'Tilt Republican': 'lean-r',
 }[c] || 'tossup');
 
 const STATE_NAMES = {
@@ -49,6 +51,15 @@ for (const c of candidates) {
   candidateBySeatParty.get(k).push(c);
 }
 const concludedPrimaryStates = new Set(['AZ','CO','FL','IA','KS','KY','LA','MD','ME','MI','MN','MO','MT','NC','NE','NH','NJ','NV','OH','PA','SC','TN','VA','WA','WI']);
+
+const normalizeCategory = (category, party) => {
+  if (category === 'Lean/Tilt Republican' || category === 'Lean Republican') return 'Likely Republican';
+  if (category === 'Tilt Republican') return 'Tossup';
+  if (category === 'Tilt Democrat') return 'Tossup';
+  if (category === 'Lean Democrat') return 'Likely Democrat';
+  if (category === 'Tilt Democrat') return 'Tossup';
+  return category;
+};
 for (const seat of seats) {
   const k = key(seat.state, seat.district);
   if (!byState.has(seat.state)) byState.set(seat.state, []);
@@ -78,7 +89,7 @@ function renderState(state) {
     const displayed = candidatesForSeat.filter(Boolean).filter((c, i, arr) => arr.findIndex(x => x.candidate === c.candidate && x.party === c.party) === i).slice(0, 2);
     return `<div class="seat-row">
       <div class="seat-head">
-        <div><span class="badge ${categoryClass(seat.category)}">${seatId(seat.state, seat.district)}</span> <strong>${seat.category}</strong></div>
+        <div><span class="badge ${categoryClass(normalizeCategory(seat.category))}">${seatId(seat.state, seat.district)}</span> <strong>${normalizeCategory(seat.category)}</strong></div>
         <div class="muted">${seat.notes || ''}</div>
       </div>
       <div class="candidate-list">${displayed.map(c => `
