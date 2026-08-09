@@ -37,6 +37,13 @@ The site and exported data are normalized to the 7 headline categories:
 
 The underlying data may still include finer split labels in source exports, but the website displays them in this 7-bucket format.
 
+The site also shows the lead band for each category:
+
+- Safe: > 12.5%
+- Likely: 8% - 12.5%
+- Lean/Tilt: 2.5% - 8%
+- Tossup: < 2.5%
+
 ## What’s in the database
 
 - Seat classifications for all 435 House districts

@@ -60,6 +60,22 @@ const normalizeCategory = (category, party) => {
   if (category === 'Tilt Democrat') return 'Tossup';
   return category;
 };
+const categoryLead = (category) => {
+  switch (normalizeCategory(category)) {
+    case 'Safe Democrat':
+    case 'Safe Republican':
+      return '> 12.5%';
+    case 'Likely Democrat':
+    case 'Likely Republican':
+      return '8% - 12.5%';
+    case 'Lean/Tilt Democrat':
+      return '2.5% - 8%';
+    case 'Lean/Tilt Republican':
+      return '2.5% - 8%';
+    default:
+      return '< 2.5%';
+  }
+};
 for (const seat of seats) {
   const k = key(seat.state, seat.district);
   if (!byState.has(seat.state)) byState.set(seat.state, []);
@@ -89,7 +105,7 @@ function renderState(state) {
     const displayed = candidatesForSeat.filter(Boolean).filter((c, i, arr) => arr.findIndex(x => x.candidate === c.candidate && x.party === c.party) === i).slice(0, 2);
     return `<div class="seat-row">
       <div class="seat-head">
-        <div><span class="badge ${categoryClass(normalizeCategory(seat.category))}">${seatId(seat.state, seat.district)}</span> <strong>${normalizeCategory(seat.category)}</strong></div>
+        <div><span class="badge ${categoryClass(normalizeCategory(seat.category))}">${seatId(seat.state, seat.district)}</span> <strong>${normalizeCategory(seat.category)}</strong> <span class="muted">Lead ${categoryLead(seat.category)}</span></div>
         <div class="muted">${seat.notes || ''}</div>
       </div>
       <div class="candidate-list">${displayed.map(c => `
