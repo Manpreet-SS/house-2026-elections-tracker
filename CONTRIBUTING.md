@@ -12,7 +12,7 @@ Thank you for your interest in contributing! This project thrives on community i
   - Specific error (incumbent name, challenger name, category)
   - Corrected information with source link (Wikipedia, FEC, etc.)
 
-**Verify Pending Data**: Help complete the 156 remaining challenger names
+**Verify Pending Data**: Help complete the 156 remaining candidates names
 - Check `/database/race_candidates.csv` for "Challenger TBD" entries
 - Look up Wikipedia 2026 House elections page for your state
 - Submit verified names via pull request (see below)
