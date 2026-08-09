@@ -3084,320 +3084,11 @@ window.HOUSE_DATA = {
   "candidates": []
 };
 window.HOUSE_CANDIDATES = {
-  "TX|15": [
-    {
-      "candidate": "Monica de la Cruz",
-      "party": "R",
-      "role": "incumbent",
-      "source": "bundle",
-      "endorsements": "",
-      "trump_endorsed": 0,
-      "primary_lost": 0,
-      "funds": "",
-      "open_secrets_url": "",
-      "fec_url": "",
-      "aipac_money": "",
-      "corporate_pac_money": "",
-      "stock_trading_notes": "",
-      "additional_info": ""
-    }
-  ],
-  "TX|23": [
-    {
-      "candidate": "Gonzales",
-      "party": "R",
-      "role": "incumbent",
-      "source": "seat",
-      "endorsements": "",
-      "trump_endorsed": 0,
-      "primary_lost": 0,
-      "funds": "",
-      "open_secrets_url": "",
-      "fec_url": "",
-      "aipac_money": "",
-      "corporate_pac_money": "",
-      "stock_trading_notes": "",
-      "additional_info": ""
-    },
-    {
-      "candidate": "Tony Gonzales",
-      "party": "R",
-      "role": "retiring incumbent",
-      "source": "bundle",
-      "endorsements": "",
-      "trump_endorsed": 0,
-      "primary_lost": 0,
-      "funds": "",
-      "open_secrets_url": "",
-      "fec_url": "",
-      "aipac_money": "",
-      "corporate_pac_money": "",
-      "stock_trading_notes": "",
-      "additional_info": ""
-    }
-  ],
-  "TX|28": [
-    {
-      "candidate": "Henry Cuellar",
-      "party": "D",
-      "role": "incumbent",
-      "source": "bundle",
-      "endorsements": "",
-      "trump_endorsed": 0,
-      "primary_lost": 0,
-      "funds": "",
-      "open_secrets_url": "",
-      "fec_url": "",
-      "aipac_money": "",
-      "corporate_pac_money": "",
-      "stock_trading_notes": "",
-      "additional_info": ""
-    }
-  ],
-  "TX|34": [
-    {
-      "candidate": "Vicente Gonzalez",
-      "party": "D",
-      "role": "incumbent",
-      "source": "bundle",
-      "endorsements": "",
-      "trump_endorsed": 0,
-      "primary_lost": 0,
-      "funds": "",
-      "open_secrets_url": "",
-      "fec_url": "",
-      "aipac_money": "",
-      "corporate_pac_money": "",
-      "stock_trading_notes": "",
-      "additional_info": ""
-    }
-  ],
-  "TX|35": [
-    {
-      "candidate": "Casar",
-      "party": "D",
-      "role": "incumbent",
-      "source": "seat",
-      "endorsements": "",
-      "trump_endorsed": 0,
-      "primary_lost": 0,
-      "funds": "",
-      "open_secrets_url": "",
-      "fec_url": "",
-      "aipac_money": "",
-      "corporate_pac_money": "",
-      "stock_trading_notes": "",
-      "additional_info": ""
-    },
-    {
-      "candidate": "Greg Casar",
-      "party": "D",
-      "role": "retiring incumbent",
-      "source": "bundle",
-      "endorsements": "",
-      "trump_endorsed": 0,
-      "primary_lost": 0,
-      "funds": "",
-      "open_secrets_url": "",
-      "fec_url": "",
-      "aipac_money": "",
-      "corporate_pac_money": "",
-      "stock_trading_notes": "",
-      "additional_info": ""
-    }
-  ],
-  "CA|1": [
-    {
-      "candidate": "LaMalfa",
-      "party": "R",
-      "role": "incumbent",
-      "source": "seat",
-      "endorsements": "",
-      "trump_endorsed": 0,
-      "primary_lost": 0,
-      "funds": "",
-      "open_secrets_url": "",
-      "fec_url": "",
-      "aipac_money": "",
-      "corporate_pac_money": "",
-      "stock_trading_notes": "",
-      "additional_info": ""
-    },
-    {
-      "candidate": "Doris Matsui",
-      "party": "D",
-      "role": "incumbent",
-      "source": "bundle",
-      "endorsements": "",
-      "trump_endorsed": 0,
-      "primary_lost": 0,
-      "funds": "",
-      "open_secrets_url": "",
-      "fec_url": "",
-      "aipac_money": "",
-      "corporate_pac_money": "",
-      "stock_trading_notes": "",
-      "additional_info": ""
-    },
-    {
-      "candidate": "Kevin Kiley",
-      "party": "R",
-      "role": "challenger",
-      "source": "bundle",
-      "endorsements": "",
-      "trump_endorsed": 0,
-      "primary_lost": 0,
-      "funds": "",
-      "open_secrets_url": "",
-      "fec_url": "",
-      "aipac_money": "",
-      "corporate_pac_money": "",
-      "stock_trading_notes": "",
-      "additional_info": ""
-    }
-  ],
-  "CA|13": [
-    {
-      "candidate": "Adam Gray",
-      "party": "D",
-      "role": "incumbent",
-      "source": "seat",
-      "endorsements": "",
-      "trump_endorsed": 0,
-      "primary_lost": 0,
-      "funds": "",
-      "open_secrets_url": "",
-      "fec_url": "",
-      "aipac_money": "",
-      "corporate_pac_money": "",
-      "stock_trading_notes": "",
-      "additional_info": ""
-    },
-    {
-      "candidate": "John Duarte",
-      "party": "R",
-      "role": "incumbent",
-      "source": "bundle",
-      "endorsements": "",
-      "trump_endorsed": 0,
-      "primary_lost": 0,
-      "funds": "",
-      "open_secrets_url": "",
-      "fec_url": "",
-      "aipac_money": "",
-      "corporate_pac_money": "",
-      "stock_trading_notes": "",
-      "additional_info": ""
-    }
-  ],
-  "CA|22": [
-    {
-      "candidate": "Valadao",
-      "party": "R",
-      "role": "incumbent",
-      "source": "seat",
-      "endorsements": "",
-      "trump_endorsed": 0,
-      "primary_lost": 0,
-      "funds": "",
-      "open_secrets_url": "",
-      "fec_url": "",
-      "aipac_money": "",
-      "corporate_pac_money": "",
-      "stock_trading_notes": "",
-      "additional_info": ""
-    },
-    {
-      "candidate": "Jim Costa",
-      "party": "D",
-      "role": "incumbent",
-      "source": "bundle",
-      "endorsements": "",
-      "trump_endorsed": 0,
-      "primary_lost": 0,
-      "funds": "",
-      "open_secrets_url": "",
-      "fec_url": "",
-      "aipac_money": "",
-      "corporate_pac_money": "",
-      "stock_trading_notes": "",
-      "additional_info": ""
-    }
-  ],
-  "NY|3": [
-    {
-      "candidate": "Tom Suozzi",
-      "party": "D",
-      "role": "incumbent",
-      "source": "seat",
-      "endorsements": "",
-      "trump_endorsed": 0,
-      "primary_lost": 0,
-      "funds": "",
-      "open_secrets_url": "",
-      "fec_url": "",
-      "aipac_money": "",
-      "corporate_pac_money": "",
-      "stock_trading_notes": "",
-      "additional_info": ""
-    },
-    {
-      "candidate": "George Latimer",
-      "party": "D",
-      "role": "incumbent",
-      "source": "bundle",
-      "endorsements": "",
-      "trump_endorsed": 0,
-      "primary_lost": 0,
-      "funds": "",
-      "open_secrets_url": "",
-      "fec_url": "",
-      "aipac_money": "",
-      "corporate_pac_money": "",
-      "stock_trading_notes": "",
-      "additional_info": ""
-    }
-  ],
-  "NY|17": [
-    {
-      "candidate": "Michael Lawler",
-      "party": "R",
-      "role": "incumbent",
-      "source": "seat",
-      "endorsements": "",
-      "trump_endorsed": 0,
-      "primary_lost": 0,
-      "funds": "",
-      "open_secrets_url": "",
-      "fec_url": "",
-      "aipac_money": "",
-      "corporate_pac_money": "",
-      "stock_trading_notes": "",
-      "additional_info": ""
-    },
-    {
-      "candidate": "Mike Lawler",
-      "party": "R",
-      "role": "incumbent",
-      "source": "bundle",
-      "endorsements": "",
-      "trump_endorsed": 0,
-      "primary_lost": 0,
-      "funds": "",
-      "open_secrets_url": "",
-      "fec_url": "",
-      "aipac_money": "",
-      "corporate_pac_money": "",
-      "stock_trading_notes": "",
-      "additional_info": ""
-    }
-  ],
   "NY|1": [
     {
       "candidate": "Nick LaLota",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3407,7 +3098,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NY|2": [
@@ -3415,7 +3123,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Andrew Garbarino",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3425,7 +3132,58 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
+    }
+  ],
+  "NY|3": [
+    {
+      "candidate": "Tom Suozzi",
+      "party": "D",
+      "role": "incumbent",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NY|4": [
@@ -3433,7 +3191,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Laura Gillen",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3443,7 +3200,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NY|5": [
@@ -3451,7 +3225,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Gregory Meeks",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3461,7 +3234,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NY|6": [
@@ -3469,7 +3259,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Grace Meng",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3479,7 +3268,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NY|7": [
@@ -3487,7 +3293,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Velazquez",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3497,7 +3302,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NY|8": [
@@ -3505,7 +3327,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Hakeem Jeffries",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3515,7 +3336,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NY|9": [
@@ -3523,7 +3361,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Yvette Clarke",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3533,7 +3370,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NY|10": [
@@ -3541,7 +3395,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Dan Goldman",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3551,7 +3404,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NY|11": [
@@ -3559,7 +3429,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Nicole Malliotakis",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3569,7 +3438,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NY|12": [
@@ -3577,7 +3463,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Nadler",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3587,7 +3472,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NY|13": [
@@ -3595,7 +3497,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Adriano Espaillat",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3605,7 +3506,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NY|14": [
@@ -3613,7 +3531,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Alexandria Ocasio-Cortez",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3623,7 +3540,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NY|15": [
@@ -3631,7 +3565,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Ritchie Torres",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3641,7 +3574,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NY|16": [
@@ -3649,7 +3599,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "George Latimer",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3659,7 +3608,58 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
+    }
+  ],
+  "NY|17": [
+    {
+      "candidate": "Michael Lawler",
+      "party": "R",
+      "role": "incumbent",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NY|18": [
@@ -3667,7 +3667,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Pat Ryan",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3677,7 +3676,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NY|19": [
@@ -3685,7 +3701,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Josh Riley",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3695,7 +3710,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NY|20": [
@@ -3703,7 +3735,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Paul Tonko",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3713,7 +3744,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NY|21": [
@@ -3721,7 +3769,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Stefanik",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3731,7 +3778,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NY|22": [
@@ -3739,7 +3803,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "John Mannion",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3749,7 +3812,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NY|23": [
@@ -3757,7 +3837,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Nick Langworthy",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3767,7 +3846,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NY|24": [
@@ -3775,7 +3871,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Claudia Tenney",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3785,7 +3880,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NY|25": [
@@ -3793,7 +3905,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Joseph Morelle",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3803,7 +3914,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NY|26": [
@@ -3811,7 +3939,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Tim Kennedy",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3821,7 +3948,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "MA|1": [
@@ -3829,7 +3973,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Richard Neal",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3839,7 +3982,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "MA|2": [
@@ -3847,7 +4007,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Jim McGovern",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3857,7 +4016,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "MA|3": [
@@ -3865,7 +4041,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Lori Trahan",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3875,7 +4050,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "MA|4": [
@@ -3883,7 +4075,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Jake Auchincloss",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3893,7 +4084,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "MA|5": [
@@ -3901,7 +4109,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Katherine Clark",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3911,7 +4118,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "MA|6": [
@@ -3919,7 +4143,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Seth Moulton",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3929,7 +4152,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "MA|7": [
@@ -3937,7 +4177,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Ayanna Pressley",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3947,7 +4186,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "MA|8": [
@@ -3955,7 +4211,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Stephen Lynch",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3965,7 +4220,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "MA|9": [
@@ -3973,7 +4245,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Bill Keating",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3983,7 +4254,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CO|1": [
@@ -3991,7 +4279,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "DeGette",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4001,7 +4288,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CO|2": [
@@ -4009,7 +4313,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Joe Neguse",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4019,7 +4322,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CO|3": [
@@ -4027,7 +4347,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Jeff Hurd",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4037,7 +4356,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CO|4": [
@@ -4045,7 +4381,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Lauren Boebert",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4055,7 +4390,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CO|5": [
@@ -4063,7 +4415,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Jeff Crank",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4073,7 +4424,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CO|6": [
@@ -4081,7 +4449,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Jason Crow",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4091,7 +4458,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CO|7": [
@@ -4099,7 +4483,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Brittany Pettersen",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4109,7 +4492,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CO|8": [
@@ -4117,7 +4517,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Gabe Evans",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4127,7 +4526,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "AL|1": [
@@ -4135,7 +4551,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Moore",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4145,7 +4560,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "AL|2": [
@@ -4153,7 +4585,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Shomari Figures",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4163,7 +4594,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "AL|3": [
@@ -4171,7 +4619,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Mike Rogers",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4181,7 +4628,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "AL|4": [
@@ -4189,7 +4653,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Robert Aderholt",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4199,7 +4662,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "AL|5": [
@@ -4207,7 +4687,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Dale Strong",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4217,7 +4696,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "AL|6": [
@@ -4225,7 +4721,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Gary Palmer",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4235,7 +4730,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "AL|7": [
@@ -4243,7 +4755,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Terri Sewell",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4253,7 +4764,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "TX|1": [
@@ -4261,7 +4789,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Nathaniel Moran",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4271,7 +4798,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "TX|2": [
@@ -4279,7 +4823,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Crenshaw",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4289,7 +4832,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "TX|3": [
@@ -4297,7 +4857,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Keith Self",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4307,7 +4866,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "TX|4": [
@@ -4315,7 +4891,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Pat Fallon",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4325,7 +4900,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "TX|5": [
@@ -4333,7 +4925,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Lance Gooden",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4343,7 +4934,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "TX|6": [
@@ -4351,7 +4959,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Jake Ellzey",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4361,7 +4968,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "TX|7": [
@@ -4369,7 +4993,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Lizzie Fletcher",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4379,7 +5002,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "TX|8": [
@@ -4387,7 +5027,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Luttrell",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4397,7 +5036,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "TX|9": [
@@ -4405,7 +5061,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Green",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4415,7 +5070,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "TX|10": [
@@ -4423,7 +5095,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "McCaul",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4433,7 +5104,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "TX|11": [
@@ -4441,7 +5129,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "August Pfluger",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4451,7 +5138,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "TX|12": [
@@ -4459,7 +5163,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Craig Goldman",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4469,7 +5172,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "TX|13": [
@@ -4477,7 +5197,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Ronny Jackson",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4487,7 +5206,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "TX|14": [
@@ -4495,7 +5231,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Randy Weber",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4505,7 +5240,58 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
+    }
+  ],
+  "TX|15": [
+    {
+      "candidate": "Monica de la Cruz",
+      "party": "R",
+      "role": "incumbent",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "TX|16": [
@@ -4513,7 +5299,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Veronica Escobar",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4523,7 +5308,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "TX|17": [
@@ -4531,7 +5333,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Pete Sessions",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4541,7 +5342,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "TX|18": [
@@ -4549,7 +5367,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Sylvester Turner",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4559,7 +5376,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "TX|19": [
@@ -4567,7 +5401,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Arrington",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4577,7 +5410,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "TX|20": [
@@ -4585,7 +5435,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Joaquin Castro",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4595,7 +5444,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "TX|21": [
@@ -4603,7 +5469,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Roy",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4613,7 +5478,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "TX|22": [
@@ -4621,7 +5503,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Nehls",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4631,7 +5512,58 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
+    }
+  ],
+  "TX|23": [
+    {
+      "candidate": "Gonzales",
+      "party": "R",
+      "role": "incumbent",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "TX|24": [
@@ -4639,7 +5571,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Beth Van Duyne",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4649,7 +5580,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "TX|25": [
@@ -4657,7 +5605,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Johnson",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4667,7 +5614,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "TX|26": [
@@ -4675,7 +5639,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Brandon Gill",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4685,7 +5648,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "TX|27": [
@@ -4693,7 +5673,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Michael Cloud",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4703,7 +5682,58 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
+    }
+  ],
+  "TX|28": [
+    {
+      "candidate": "Henry Cuellar",
+      "party": "D",
+      "role": "incumbent",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "TX|29": [
@@ -4711,7 +5741,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Silvia Garcia",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4721,7 +5750,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "TX|30": [
@@ -4729,7 +5775,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Crockett",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4739,7 +5784,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "TX|31": [
@@ -4747,7 +5809,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "John Carter",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4757,7 +5818,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "TX|32": [
@@ -4765,7 +5843,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Johnson",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4775,7 +5852,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "TX|33": [
@@ -4783,7 +5877,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Veasey",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4793,7 +5886,92 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
+    }
+  ],
+  "TX|34": [
+    {
+      "candidate": "Vicente Gonzalez",
+      "party": "D",
+      "role": "incumbent",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
+    }
+  ],
+  "TX|35": [
+    {
+      "candidate": "Casar",
+      "party": "D",
+      "role": "incumbent",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "TX|36": [
@@ -4801,7 +5979,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Brian Babin",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4811,7 +5988,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "TX|37": [
@@ -4819,7 +6013,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Lloyd Doggett",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4829,7 +6022,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "TX|38": [
@@ -4837,7 +6047,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Hunt",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4847,7 +6056,58 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
+    }
+  ],
+  "CA|1": [
+    {
+      "candidate": "LaMalfa",
+      "party": "R",
+      "role": "incumbent",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|2": [
@@ -4855,7 +6115,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Jared Huffman",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4865,7 +6124,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|3": [
@@ -4873,7 +6149,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Kevin Kiley",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4883,7 +6158,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|4": [
@@ -4891,7 +6183,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Mike Thompson",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4901,7 +6192,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|5": [
@@ -4909,7 +6217,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Tom McClintock",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4919,7 +6226,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|6": [
@@ -4927,7 +6251,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Ami Bera",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4937,7 +6260,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|7": [
@@ -4945,7 +6285,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Doris Matsui",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4955,7 +6294,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|8": [
@@ -4963,7 +6319,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "John Garamendi",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4973,7 +6328,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|9": [
@@ -4981,7 +6353,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Josh Harder",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -4991,7 +6362,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|10": [
@@ -4999,7 +6387,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Mark DeSaulnier",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5009,7 +6396,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|11": [
@@ -5017,7 +6421,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Pelosi",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5027,7 +6430,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|12": [
@@ -5035,7 +6455,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Lateefah Simon",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5045,7 +6464,58 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
+    }
+  ],
+  "CA|13": [
+    {
+      "candidate": "Adam Gray",
+      "party": "D",
+      "role": "incumbent",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|14": [
@@ -5053,7 +6523,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Swalwell",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5063,7 +6532,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|15": [
@@ -5071,7 +6557,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Kevin Mullin",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5081,7 +6566,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|16": [
@@ -5089,7 +6591,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Sam Liccardo",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5099,7 +6600,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|17": [
@@ -5107,7 +6625,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Ro Khanna",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5117,7 +6634,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|18": [
@@ -5125,7 +6659,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Zoe Lofgren",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5135,7 +6668,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|19": [
@@ -5143,7 +6693,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Jimmy Panetta",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5153,7 +6702,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|20": [
@@ -5161,7 +6727,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Vince Fong",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5171,7 +6736,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|21": [
@@ -5179,7 +6761,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Jim Costa",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5189,7 +6770,58 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
+    }
+  ],
+  "CA|22": [
+    {
+      "candidate": "Valadao",
+      "party": "R",
+      "role": "incumbent",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|23": [
@@ -5197,7 +6829,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Jay Obernolte",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5207,7 +6838,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|24": [
@@ -5215,7 +6863,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Salud Carbajal",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5225,7 +6872,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|25": [
@@ -5233,7 +6897,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Raul Ruiz",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5243,7 +6906,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|26": [
@@ -5251,7 +6931,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Brownley",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5261,7 +6940,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|27": [
@@ -5269,7 +6965,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "George Whitesides",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5279,7 +6974,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|28": [
@@ -5287,7 +6999,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Judy Chu",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5297,7 +7008,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|29": [
@@ -5305,7 +7033,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Luz Rivas",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5315,7 +7042,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|30": [
@@ -5323,7 +7067,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Laura Friedman",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5333,7 +7076,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|31": [
@@ -5341,7 +7101,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Gil Cisneros",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5351,7 +7110,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|32": [
@@ -5359,7 +7135,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Brad Sherman",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5369,7 +7144,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|33": [
@@ -5377,7 +7169,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Pete Aguilar",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5387,7 +7178,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|34": [
@@ -5395,7 +7203,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Jimmy Gomez",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5405,7 +7212,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|35": [
@@ -5413,7 +7237,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Norma Torres",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5423,7 +7246,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|36": [
@@ -5431,7 +7271,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Ted Lieu",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5441,7 +7280,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|37": [
@@ -5449,7 +7305,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Sydney Kamlager",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5459,7 +7314,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|38": [
@@ -5467,7 +7339,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Sanchez",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5477,7 +7348,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|39": [
@@ -5485,7 +7373,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Mark Takano",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5495,7 +7382,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|40": [
@@ -5503,7 +7407,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Kim",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5513,7 +7416,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|41": [
@@ -5521,7 +7441,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Calvert",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5531,7 +7450,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|42": [
@@ -5539,7 +7475,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Robert Garcia",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5549,7 +7484,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|43": [
@@ -5557,7 +7509,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Maxine Waters",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5567,7 +7518,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|44": [
@@ -5575,7 +7543,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Nanette Barragan",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5585,7 +7552,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|45": [
@@ -5593,7 +7577,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Derek Tran",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5603,7 +7586,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|46": [
@@ -5611,7 +7611,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Lou Correa",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5621,7 +7620,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|47": [
@@ -5629,7 +7645,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "David Min",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5639,7 +7654,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|48": [
@@ -5647,7 +7679,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Issa",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5657,7 +7688,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|49": [
@@ -5665,7 +7713,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Mike Levin",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5675,7 +7722,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|50": [
@@ -5683,7 +7747,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Scott Peters",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5693,7 +7756,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|51": [
@@ -5701,7 +7781,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Sara Jacobs",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5711,7 +7790,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CA|52": [
@@ -5719,7 +7815,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Juan Vargas",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5729,7 +7824,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "FL|1": [
@@ -5737,7 +7849,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Jimmy Patronis",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5747,7 +7858,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "FL|2": [
@@ -5755,7 +7883,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Dunn",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5765,7 +7892,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "FL|3": [
@@ -5773,7 +7917,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Kat Cammack",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5783,7 +7926,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "FL|4": [
@@ -5791,7 +7951,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Aaron Bean",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5801,7 +7960,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "FL|5": [
@@ -5809,7 +7985,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "John Rutherford",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5819,7 +7994,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "FL|6": [
@@ -5827,7 +8019,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Randy Fine",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5837,7 +8028,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "FL|7": [
@@ -5845,7 +8053,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Cory Mills",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5855,7 +8062,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "FL|8": [
@@ -5863,7 +8087,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Mike Haridopolos",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5873,7 +8096,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "FL|10": [
@@ -5881,7 +8121,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Maxwell Frost",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5891,7 +8130,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "FL|11": [
@@ -5899,7 +8155,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Webster",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5909,7 +8164,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "FL|12": [
@@ -5917,7 +8189,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Gus Bilirakis",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5927,7 +8198,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "FL|13": [
@@ -5935,7 +8223,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Anna Paulina Luna",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5945,7 +8232,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "FL|15": [
@@ -5953,7 +8257,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Laurel Lee",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5963,7 +8266,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "FL|16": [
@@ -5971,7 +8291,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Buchanan",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5981,7 +8300,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "FL|17": [
@@ -5989,7 +8325,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Greg Steube",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -5999,7 +8334,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "FL|18": [
@@ -6007,7 +8359,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Scott Franklin",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6017,7 +8368,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "FL|19": [
@@ -6025,7 +8393,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Donalds",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6035,7 +8402,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "FL|20": [
@@ -6043,7 +8427,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Sheila Cherfilus-McCormick",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6053,7 +8436,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "FL|21": [
@@ -6061,7 +8461,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Brian Mast",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6071,7 +8470,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "FL|22": [
@@ -6079,7 +8495,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Frankel",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6089,7 +8504,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "FL|23": [
@@ -6097,7 +8529,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Jared Moskowitz",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6107,7 +8538,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "FL|24": [
@@ -6115,7 +8563,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Wilson",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6125,7 +8572,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "FL|26": [
@@ -6133,7 +8597,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Mario Diaz-Balart",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6143,7 +8606,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "FL|27": [
@@ -6151,7 +8631,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Maria Elvira Salazar",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6161,7 +8640,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "PA|1": [
@@ -6169,7 +8665,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Brian Fitzpatrick",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6179,7 +8674,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "PA|2": [
@@ -6187,7 +8699,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Brendan Boyle",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6197,7 +8708,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "PA|3": [
@@ -6205,7 +8733,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Evans",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6215,7 +8742,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "PA|4": [
@@ -6223,7 +8767,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Madeleine Dean",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6233,7 +8776,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "PA|5": [
@@ -6241,7 +8801,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Mary Gay Scanlon",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6251,7 +8810,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "PA|6": [
@@ -6259,7 +8835,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Chrissy Houlahan",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6269,7 +8844,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "PA|7": [
@@ -6277,7 +8869,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Ryan Mackenzie",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6287,7 +8878,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "PA|8": [
@@ -6295,7 +8903,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Rob Bresnahan",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6305,7 +8912,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "PA|9": [
@@ -6313,7 +8937,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Dan Meuser",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6323,7 +8946,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "PA|10": [
@@ -6331,7 +8971,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Scott Perry",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6341,7 +8980,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "PA|11": [
@@ -6349,7 +9005,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Lloyd Smucker",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6359,7 +9014,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "PA|12": [
@@ -6367,7 +9039,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Summer Lee",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6377,7 +9048,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "PA|13": [
@@ -6385,7 +9073,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "John Joyce",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6395,7 +9082,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "PA|14": [
@@ -6403,7 +9107,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Glenn Thompson",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6413,7 +9116,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "PA|15": [
@@ -6421,7 +9141,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Chris Deluzio",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6431,7 +9150,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "PA|16": [
@@ -6439,7 +9175,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Mike Kelly",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6449,7 +9184,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "OH|1": [
@@ -6457,7 +9209,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Greg Landsman",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6467,7 +9218,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "OH|2": [
@@ -6475,7 +9243,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "David Taylor",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6485,7 +9252,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "OH|3": [
@@ -6493,7 +9277,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Joyce Beatty",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6503,7 +9286,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "OH|4": [
@@ -6511,7 +9311,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Jim Jordan",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6521,7 +9320,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "OH|5": [
@@ -6529,7 +9345,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Bob Latta",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6539,7 +9354,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "OH|6": [
@@ -6547,7 +9379,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Michael Rulli",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6557,7 +9388,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "OH|7": [
@@ -6565,7 +9413,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Max Miller",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6575,7 +9422,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "OH|8": [
@@ -6583,7 +9447,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Warren Davidson",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6593,7 +9456,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "OH|9": [
@@ -6601,7 +9481,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Marcy Kaptur",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6611,7 +9490,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "OH|10": [
@@ -6619,7 +9515,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Mike Turner",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6629,7 +9524,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "OH|11": [
@@ -6637,7 +9549,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Shontel Brown",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6647,7 +9558,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "OH|12": [
@@ -6655,7 +9583,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Troy Balderson",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6665,7 +9592,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "OH|13": [
@@ -6673,7 +9617,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Emilia Sykes",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6683,7 +9626,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "OH|14": [
@@ -6691,7 +9651,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "David Joyce",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6701,7 +9660,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "AZ|1": [
@@ -6709,7 +9685,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Schweikert",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6719,7 +9694,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "AZ|2": [
@@ -6727,7 +9719,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Eli Crane",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6737,7 +9728,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "AZ|3": [
@@ -6745,7 +9753,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Yassamin Ansari",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6755,7 +9762,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "AZ|4": [
@@ -6763,7 +9787,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Greg Stanton",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6773,7 +9796,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "AZ|5": [
@@ -6781,7 +9821,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Biggs",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6791,7 +9830,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "AZ|6": [
@@ -6799,7 +9855,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Juan Ciscomani",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6809,7 +9864,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "AZ|7": [
@@ -6817,7 +9889,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Raul Grijalva",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6827,7 +9898,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "AZ|8": [
@@ -6835,7 +9923,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Abraham Hamadeh",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6845,7 +9932,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "AZ|9": [
@@ -6853,7 +9957,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Paul Gosar",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6863,7 +9966,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "MI|1": [
@@ -6871,7 +9991,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Jack Bergman",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6881,7 +10000,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "MI|2": [
@@ -6889,7 +10025,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "John Moolenaar",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6899,7 +10034,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "MI|3": [
@@ -6907,7 +10059,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Hillary Scholten",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6917,7 +10068,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "MI|4": [
@@ -6925,7 +10093,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Bill Huizenga",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6935,7 +10102,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "MI|5": [
@@ -6943,7 +10127,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Tim Walberg",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6953,7 +10136,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "MI|6": [
@@ -6961,7 +10161,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Debbie Dingell",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6971,7 +10170,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "MI|7": [
@@ -6979,7 +10195,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Tom Barrett",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -6989,7 +10204,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "MI|8": [
@@ -6997,7 +10229,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Kristen Rivet",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7007,7 +10238,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "MI|9": [
@@ -7015,7 +10263,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Lisa McClain",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7025,7 +10272,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "MI|10": [
@@ -7033,7 +10297,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "James",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7043,7 +10306,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NC|1": [
@@ -7051,7 +10331,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Don Davis",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7061,7 +10340,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NC|2": [
@@ -7069,7 +10365,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Deborah Ross",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7079,7 +10374,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NC|3": [
@@ -7087,7 +10399,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Greg Murphy",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7097,7 +10408,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NC|4": [
@@ -7105,7 +10433,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Valerie Foushee",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7115,7 +10442,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NC|5": [
@@ -7123,7 +10467,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Virginia Foxx",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7133,7 +10476,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NC|6": [
@@ -7141,7 +10501,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Addison McDowell",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7151,7 +10510,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NC|7": [
@@ -7159,7 +10535,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "David Rouzer",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7169,7 +10544,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NC|8": [
@@ -7177,7 +10569,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Mark Harris",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7187,7 +10578,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NC|9": [
@@ -7195,7 +10603,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Richard Hudson",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7205,7 +10612,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NC|10": [
@@ -7213,7 +10637,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Pat Harrigan",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7223,7 +10646,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NC|11": [
@@ -7231,7 +10671,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Chuck Edwards",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7241,7 +10680,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NC|12": [
@@ -7249,7 +10705,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Alma Adams",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7259,7 +10714,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NC|13": [
@@ -7267,7 +10739,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Tim Moore",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7277,7 +10748,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NV|1": [
@@ -7285,7 +10773,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Dina Titus",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7295,7 +10782,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NV|2": [
@@ -7303,7 +10807,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Amodei",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7313,7 +10816,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NV|3": [
@@ -7321,7 +10841,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Susie Lee",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7331,7 +10850,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NV|4": [
@@ -7339,7 +10875,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Steven Horsford",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7349,7 +10884,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "GA|1": [
@@ -7357,7 +10909,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Carter",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7367,7 +10918,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "GA|2": [
@@ -7375,7 +10943,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Sanford Bishop",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7385,7 +10952,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "GA|3": [
@@ -7393,7 +10977,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Brian Jack",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7403,7 +10986,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "GA|4": [
@@ -7411,7 +11011,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Hank Johnson",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7421,7 +11020,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "GA|5": [
@@ -7429,7 +11045,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Nikema Williams",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7439,7 +11054,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "GA|6": [
@@ -7447,7 +11079,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Lucy McBath",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7457,7 +11088,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "GA|7": [
@@ -7465,7 +11113,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Rich McCormick",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7475,7 +11122,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "GA|8": [
@@ -7483,7 +11147,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Austin Scott",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7493,7 +11156,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "GA|9": [
@@ -7501,7 +11181,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Andrew Clyde",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7511,7 +11190,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "GA|10": [
@@ -7519,7 +11215,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Collins",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7529,7 +11224,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "GA|11": [
@@ -7537,7 +11249,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Loudermilk",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7547,7 +11258,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "GA|12": [
@@ -7555,7 +11283,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Rick Allen",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7565,7 +11292,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "GA|13": [
@@ -7573,7 +11317,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Scott",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7583,7 +11326,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "GA|14": [
@@ -7591,7 +11351,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Greene",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7601,7 +11360,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "IL|1": [
@@ -7609,7 +11385,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Jonathan Jackson",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7619,7 +11394,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "IL|2": [
@@ -7627,7 +11419,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Kelly",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7637,7 +11428,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "IL|3": [
@@ -7645,7 +11453,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Delia Ramirez",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7655,7 +11462,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "IL|4": [
@@ -7663,7 +11487,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Garc\u00eda",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7673,7 +11496,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "IL|5": [
@@ -7681,7 +11521,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Mike Quigley",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7691,7 +11530,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "IL|6": [
@@ -7699,7 +11555,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Sean Casten",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7709,7 +11564,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "IL|7": [
@@ -7717,7 +11589,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Davis",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7727,7 +11598,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "IL|8": [
@@ -7735,7 +11623,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Raj Krishn.",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7745,7 +11632,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "IL|9": [
@@ -7753,7 +11657,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Schakowsky",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7763,7 +11666,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "IL|10": [
@@ -7771,7 +11691,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Brad Schneider",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7781,7 +11700,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "IL|11": [
@@ -7789,7 +11725,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Bill Foster",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7799,7 +11734,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "IL|12": [
@@ -7807,7 +11759,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Mike Bost",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7817,7 +11768,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "IL|13": [
@@ -7825,7 +11793,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Nikki Budzinski",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7835,7 +11802,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "IL|14": [
@@ -7843,7 +11827,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Lauren Underwood",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7853,7 +11836,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "IL|15": [
@@ -7861,7 +11861,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Mary Miller",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7871,7 +11870,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "IL|16": [
@@ -7879,7 +11895,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Darin LaHood",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7889,7 +11904,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "IL|17": [
@@ -7897,7 +11929,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Eric Sorensen",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7907,7 +11938,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "WA|1": [
@@ -7915,7 +11963,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Suzan DelBene",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7925,7 +11972,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "WA|2": [
@@ -7933,7 +11997,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Rick Larsen",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7943,7 +12006,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "WA|3": [
@@ -7951,7 +12031,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Marie Perez",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7961,7 +12040,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "WA|4": [
@@ -7969,7 +12065,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Newhouse",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7979,7 +12074,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "WA|5": [
@@ -7987,7 +12099,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Michael Baumgartner",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -7997,7 +12108,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "WA|6": [
@@ -8005,7 +12133,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Emily Randall",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8015,7 +12142,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "WA|7": [
@@ -8023,7 +12167,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Pramila Jayapal",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8033,7 +12176,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "WA|8": [
@@ -8041,7 +12201,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Kim Schrier",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8051,7 +12210,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "WA|9": [
@@ -8059,7 +12235,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Adam Smith",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8069,7 +12244,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "WA|10": [
@@ -8077,7 +12269,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Marilyn Strickland",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8087,7 +12278,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "WI|1": [
@@ -8095,7 +12303,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Bryan Steil",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8105,7 +12312,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "WI|2": [
@@ -8113,7 +12337,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Mark Pocan",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8123,7 +12346,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "WI|3": [
@@ -8131,7 +12371,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Derrick Van Orden",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8141,7 +12380,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "WI|4": [
@@ -8149,7 +12405,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Gwenn Moore",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8159,7 +12414,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "WI|5": [
@@ -8167,7 +12439,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Scott Fitzgerald",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8177,7 +12448,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "WI|6": [
@@ -8185,7 +12473,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Glenn Grothman",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8195,7 +12482,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "WI|7": [
@@ -8203,7 +12507,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Tiffany",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8213,7 +12516,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "WI|8": [
@@ -8221,7 +12541,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Tony Wied",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8231,7 +12550,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "MN|1": [
@@ -8239,7 +12575,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Brad Finstad",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8249,7 +12584,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "MN|2": [
@@ -8257,7 +12609,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Craig",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8267,7 +12618,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "MN|3": [
@@ -8275,7 +12643,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Kelly Morrison",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8285,7 +12652,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "MN|4": [
@@ -8293,7 +12677,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Betty McCollum",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8303,7 +12686,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "MN|5": [
@@ -8311,7 +12711,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Ilhan Omar",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8321,7 +12720,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "MN|6": [
@@ -8329,7 +12745,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Tom Emmer",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8339,7 +12754,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "MN|7": [
@@ -8347,7 +12779,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Mischelle Fischbach",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8357,7 +12788,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "MN|8": [
@@ -8365,7 +12813,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Pete Stauber",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8375,7 +12822,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NH|1": [
@@ -8383,7 +12847,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Pappas",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8393,7 +12856,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NH|2": [
@@ -8401,7 +12881,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Maggie Goodlander",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8411,7 +12890,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NJ|1": [
@@ -8419,7 +12915,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Donald Norcross",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8429,7 +12924,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NJ|2": [
@@ -8437,7 +12949,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Jeff Van Drew",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8447,7 +12958,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NJ|3": [
@@ -8455,7 +12983,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Herb Conaway",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8465,7 +12992,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NJ|4": [
@@ -8473,7 +13017,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Chris Smith",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8483,7 +13026,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NJ|5": [
@@ -8491,7 +13051,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Josh Gottheimer",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8501,7 +13060,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NJ|6": [
@@ -8509,7 +13085,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Frank Pallone",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8519,7 +13094,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NJ|7": [
@@ -8527,7 +13119,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Thomas Kean",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8537,7 +13128,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NJ|8": [
@@ -8545,7 +13153,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Rob Menendez",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8555,7 +13162,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NJ|9": [
@@ -8563,7 +13187,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Nellie Pou",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8573,7 +13196,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NJ|10": [
@@ -8581,7 +13221,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "LaMonica McIver",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8591,7 +13230,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NJ|11": [
@@ -8599,7 +13255,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Sherrill",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8609,7 +13264,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NJ|12": [
@@ -8617,7 +13289,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Coleman",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8627,7 +13298,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "RI|1": [
@@ -8635,7 +13323,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Gabe Amo",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8645,7 +13332,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "RI|2": [
@@ -8653,7 +13357,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Seth Magaziner",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8663,7 +13366,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "MD|1": [
@@ -8671,7 +13391,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Andrew P. Harris",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8681,7 +13400,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "MD|2": [
@@ -8689,7 +13425,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Johnny Olszewski",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8699,7 +13434,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "MD|3": [
@@ -8707,7 +13459,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Sarah Elfreth",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8717,7 +13468,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "MD|4": [
@@ -8725,7 +13493,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Glenn Ivey",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8735,7 +13502,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "MD|5": [
@@ -8743,7 +13527,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Hoyer",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8753,7 +13536,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "MD|6": [
@@ -8761,7 +13561,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "April McClain-Delaney",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8771,7 +13570,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "MD|7": [
@@ -8779,7 +13595,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Kweisi Mfume",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8789,7 +13604,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "MD|8": [
@@ -8797,7 +13629,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Jamie Raskin",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8807,7 +13638,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "DE|0": [
@@ -8815,7 +13663,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Sarah McBride",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8825,7 +13672,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CT|1": [
@@ -8833,7 +13697,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "John Larson",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8843,7 +13706,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CT|2": [
@@ -8851,7 +13731,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Joe Courtney",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8861,7 +13740,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CT|3": [
@@ -8869,7 +13765,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Rosa DeLauro",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8879,7 +13774,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CT|4": [
@@ -8887,7 +13799,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Jim Himes",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8897,7 +13808,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "CT|5": [
@@ -8905,7 +13833,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Jahana Hayes",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8915,7 +13842,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "KS|1": [
@@ -8923,7 +13867,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Tracey Mann",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8933,7 +13876,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "KS|2": [
@@ -8941,7 +13901,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Derek Schmidt",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8951,7 +13910,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "KS|3": [
@@ -8959,7 +13935,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Sharice Davids",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8969,7 +13944,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NE|1": [
@@ -8977,7 +13969,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Mike Flood",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -8987,7 +13978,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "NE|3": [
@@ -8995,7 +14003,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Adrian Smith",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9005,7 +14012,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "IA|1": [
@@ -9013,7 +14037,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Mariannette Miller-Meeks",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9023,7 +14046,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "IA|2": [
@@ -9031,7 +14071,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Hinson",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9041,7 +14080,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "IA|3": [
@@ -9049,7 +14105,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Zach Nunn",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9059,7 +14114,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "KY|1": [
@@ -9067,7 +14139,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "James Comer",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9077,7 +14148,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "KY|2": [
@@ -9085,7 +14173,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Brett Guthrie",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9095,7 +14182,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "KY|3": [
@@ -9103,7 +14207,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Morgan McGarvey",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9113,7 +14216,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "KY|4": [
@@ -9121,7 +14241,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Thomas Massie",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9131,7 +14250,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "KY|5": [
@@ -9139,7 +14275,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Hal Rogers",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9149,7 +14284,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "OK|1": [
@@ -9157,7 +14309,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Hern",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9167,7 +14318,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "OK|2": [
@@ -9175,7 +14343,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Josh Brecheen",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9185,7 +14352,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "OK|3": [
@@ -9193,7 +14377,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Frank Lucas",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9203,7 +14386,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "OK|4": [
@@ -9211,7 +14411,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Tom Cole",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9221,7 +14420,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "OK|5": [
@@ -9229,7 +14445,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Stephanie Bice",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9239,7 +14454,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "WV|1": [
@@ -9247,7 +14479,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Carol Miller",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9257,7 +14488,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "WV|2": [
@@ -9265,7 +14513,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Riley Moore",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9275,7 +14522,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "ND|0": [
@@ -9283,7 +14547,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Julie Fedorchak",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9293,7 +14556,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "AK|0": [
@@ -9301,7 +14581,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Nick Begich",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9311,7 +14590,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "UT|1": [
@@ -9319,7 +14615,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Moore",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9329,7 +14624,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "UT|2": [
@@ -9337,7 +14649,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Celeste Maloy",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9347,7 +14658,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "UT|3": [
@@ -9355,7 +14683,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Mike Kennedy",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9365,7 +14692,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "UT|4": [
@@ -9373,7 +14717,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Burgess Owens",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9383,7 +14726,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "VT|0": [
@@ -9391,7 +14751,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Becca Balint",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9401,7 +14760,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "HI|1": [
@@ -9409,7 +14785,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Ed Case",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9419,7 +14794,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "HI|2": [
@@ -9427,7 +14819,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Jill Tokuda",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9437,7 +14828,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "ME|1": [
@@ -9445,7 +14853,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Chellie Pingree",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9455,7 +14862,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "ME|2": [
@@ -9463,7 +14887,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Golden",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9473,7 +14896,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "AR|1": [
@@ -9481,7 +14921,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Rick Crawford",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9491,7 +14930,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "AR|2": [
@@ -9499,7 +14955,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "French Hill",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9509,7 +14964,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "AR|3": [
@@ -9517,7 +14989,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Steve Womack",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9527,7 +14998,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "AR|4": [
@@ -9535,7 +15023,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Bruce Westerman",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9545,7 +15032,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "LA|1": [
@@ -9553,7 +15057,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Steve Scalise",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9563,7 +15066,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "LA|2": [
@@ -9571,7 +15091,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Troy Carter",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9581,7 +15100,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "LA|3": [
@@ -9589,7 +15125,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Clay Higgins",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9599,7 +15134,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "LA|4": [
@@ -9607,7 +15159,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Mike Johnson",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9617,7 +15168,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "LA|5": [
@@ -9625,7 +15193,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Letlow",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9635,7 +15202,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "LA|6": [
@@ -9643,7 +15227,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Cleo Fields",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9653,7 +15236,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "MS|1": [
@@ -9661,7 +15261,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Trent Kelly",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9671,7 +15270,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "MS|2": [
@@ -9679,7 +15295,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Bennie Thompson",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9689,7 +15304,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "MS|3": [
@@ -9697,7 +15329,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Michael Guest",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9707,7 +15338,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "MS|4": [
@@ -9715,7 +15363,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Mike Ezell",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9725,7 +15372,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "SC|1": [
@@ -9733,7 +15397,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Mace",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9743,7 +15406,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "SC|2": [
@@ -9751,7 +15431,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Joe Wilson",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9761,7 +15440,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "SC|3": [
@@ -9769,7 +15465,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Sheri Biggs",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9779,7 +15474,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "SC|4": [
@@ -9787,7 +15499,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "William Timmons",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9797,7 +15508,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "SC|5": [
@@ -9805,7 +15533,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Norman",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9815,7 +15542,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "SC|6": [
@@ -9823,7 +15567,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Jim Clyburn",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9833,7 +15576,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "SC|7": [
@@ -9841,7 +15601,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Russell Fry",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9851,7 +15610,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "TN|1": [
@@ -9859,7 +15635,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Diana Harshbarger",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9869,7 +15644,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "TN|2": [
@@ -9877,7 +15669,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Tim Burchett",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9887,7 +15678,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "TN|3": [
@@ -9895,7 +15703,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Chuck Fleischmann",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9905,7 +15712,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "TN|4": [
@@ -9913,7 +15737,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Scott DesJarlais",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9923,7 +15746,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "TN|5": [
@@ -9931,7 +15771,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Andy Ogles",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9941,16 +15780,49 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
-  "TN|6": [],
+  "TN|6": [
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
+    }
+  ],
   "TN|7": [
     {
       "candidate": "Mark Green",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9960,7 +15832,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "TN|8": [
@@ -9968,7 +15857,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "David Kustoff",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9978,7 +15866,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "TN|9": [
@@ -9986,7 +15891,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Cohen",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -9996,7 +15900,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "VA|1": [
@@ -10004,7 +15925,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Rob Wittman",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -10014,7 +15934,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "VA|2": [
@@ -10022,7 +15959,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Jennifer Kiggans",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -10032,7 +15968,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "VA|3": [
@@ -10040,7 +15993,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Bobby Scott",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -10050,7 +16002,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "VA|4": [
@@ -10058,7 +16027,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Jennifer McClellan",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -10068,7 +16036,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "VA|5": [
@@ -10076,7 +16061,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Eugene Vindman",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -10086,7 +16070,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "VA|6": [
@@ -10094,7 +16095,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Ben Cline",
       "party": "R",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -10104,7 +16104,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ],
   "VA|7": [
@@ -10112,7 +16129,6 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Abigail Spanberger",
       "party": "D",
       "role": "incumbent",
-      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -10122,7 +16138,24 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": ""
+      "additional_info": "",
+      "source": "seat"
+    },
+    {
+      "candidate": "TBD / not yet in source",
+      "party": "",
+      "role": "candidate",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": "Second candidate not present in current race_candidates source",
+      "source": "placeholder"
     }
   ]
 };
