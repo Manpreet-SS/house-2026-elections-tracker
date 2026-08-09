@@ -53,7 +53,7 @@ If AP or NBC source rows are added to that bundle, the site will show those sour
 
 The current bundle keeps the two highest-priority candidate rows per seat from the source exports, preferring NBC/AP data when it is available.
 
-California seats are populated from NBC 2026 primary result screenshots and shown as top-two advancing candidates.
+California seats with same-party general elections are shown as safe for that party.
 
 Source labels are hidden next to party names and candidate details on the site.
 

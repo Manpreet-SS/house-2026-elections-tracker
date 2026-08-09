@@ -56,11 +56,18 @@ const concludedPrimaryStates = new Set(['AZ','CO','FL','IA','KS','KY','LA','MD',
 
 const normalizeCategory = (category, party) => {
   if (category === 'Lean/Tilt Republican' || category === 'Lean Republican') return 'Likely Republican';
+  if (category === 'Lean Democrat') return 'Likely Democrat';
   if (category === 'Tilt Republican') return 'Tossup';
   if (category === 'Tilt Democrat') return 'Tossup';
-  if (category === 'Lean Democrat') return 'Likely Democrat';
-  if (category === 'Tilt Democrat') return 'Tossup';
   return category;
+};
+const safeForSameParty = (seat, candidatesForSeat) => {
+  if (!seat || !candidatesForSeat || candidatesForSeat.length < 2) return null;
+  const parties = candidatesForSeat.map(c => c.party).filter(Boolean);
+  if (parties.length < 2) return null;
+  const first = parties[0];
+  if (parties.every(p => p === first)) return first === 'DEM' || first === 'D' ? 'Safe Democrat' : 'Safe Republican';
+  return null;
 };
 const categoryLead = (category) => {
   switch (normalizeCategory(category)) {
@@ -131,9 +138,10 @@ function renderState(state) {
   view.innerHTML = `<h2>${fullStateName(state)} (${state})</h2>${seatsForState.map(seat => {
     const candidatesForSeat = (concludedPrimaryStates.has(state) ? candidateBySeatParty.get(key(seat.state, seat.district)) : seatCandidates.get(key(seat.state, seat.district))) || [];
     const displayed = candidatesForSeat.filter(Boolean).filter((c, i, arr) => arr.findIndex(x => x.candidate === c.candidate && x.party === c.party) === i).slice(0, 2);
+    const displayCategory = safeForSameParty(seat, displayed) || normalizeCategory(seat.category);
     return `<div class="seat-row">
       <div class="seat-head">
-        <div><span class="badge ${categoryClass(normalizeCategory(seat.category))}">${seatId(seat.state, seat.district)}</span> <strong>${normalizeCategory(seat.category)}</strong> <span class="muted">Lead ${leadPercent(seat.category)}</span></div>
+        <div><span class="badge ${categoryClass(displayCategory)}">${seatId(seat.state, seat.district)}</span> <strong>${displayCategory}</strong> <span class="muted">Lead ${leadPercent(displayCategory)}</span></div>
         <div class="muted">${seat.notes || ''}</div>
       </div>
       <div class="candidate-list">${displayed.map(c => `
