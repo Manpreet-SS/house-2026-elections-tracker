@@ -55,6 +55,8 @@ The current bundle keeps the two highest-priority candidate rows per seat from t
 
 California seats are populated from NBC 2026 primary result screenshots and shown as top-two advancing candidates.
 
+Source labels are hidden next to party names on the main seat cards.
+
 ## What’s in the database
 
 - Seat classifications for all 435 House districts

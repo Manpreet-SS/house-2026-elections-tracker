@@ -139,7 +139,7 @@ function renderState(state) {
       <div class="candidate-list">${displayed.map(c => `
         <div class="candidate">
           <div><strong>${isIncumbent(seat, c) ? '<span class="star">★</span> ' : ''}${c.candidate}</strong></div>
-          <div class="muted">${c.party || ''}${c.aipac_money || c.aipac_endorsed ? ' · AIPAC funded/endorsed' : ''}${c.trump_endorsed && c.primary_lost ? ' · Trump-endorsed candidate lost primary' : ''}${c.source ? ' · ' + c.source : ''}</div>
+          <div class="muted">${c.party || ''}${c.aipac_money || c.aipac_endorsed ? ' · AIPAC funded/endorsed' : ''}${c.trump_endorsed && c.primary_lost ? ' · Trump-endorsed candidate lost primary' : ''}</div>
           <div><a href="#${seatId(c.state,c.district)}/${encodeURIComponent(c.candidate)}">Open candidate details</a></div>
         </div>`).join('') || '<div class="muted">No candidate rows available.</div>'}</div>
       <div class="muted">Candidates on file: ${(candidateNamesBySeat.get(key(seat.state, seat.district)) || []).join(', ') || 'none'}</div>
