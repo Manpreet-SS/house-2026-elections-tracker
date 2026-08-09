@@ -55,7 +55,7 @@ The current bundle keeps the two highest-priority candidate rows per seat from t
 
 California seats are populated from NBC 2026 primary result screenshots and shown as top-two advancing candidates.
 
-Source labels are hidden next to party names on the main seat cards.
+Source labels are hidden next to party names and candidate details on the site.
 
 ## What’s in the database
 

@@ -160,7 +160,6 @@ function renderCandidate(state, district, name) {
       </div>
       <p class="muted">${c.additional_info || c.notes || ''}</p>
       <p>${c.aipac_money || c.aipac_endorsed ? 'AIPAC funded/endorsed: yes' : 'AIPAC funded/endorsed: no'}</p>
-      <p class="muted">Source: ${c.source || 'bundle'}</p>
       ${c.trump_endorsed && c.primary_lost ? '<p><strong>Note:</strong> Trump-endorsed candidate lost the primary.</p>' : ''}
       <div class="detail-box">
         <h3>Endorsements</h3>
