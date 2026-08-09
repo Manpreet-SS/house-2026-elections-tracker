@@ -49,6 +49,8 @@ Seat pages also list the candidate names on file for each district.
 
 The site now reads seat-level candidate data from the exported candidate bundle in `site-data.js` so districts stop showing empty candidate rows.
 
+If AP or NBC source rows are added to that bundle, the site will show those source-tagged candidate names and mark incumbents with `★`.
+
 ## What’s in the database
 
 - Seat classifications for all 435 House districts

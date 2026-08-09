@@ -1,5 +1,6 @@
 const data = window.HOUSE_DATA || { seats: [], candidates: [] };
 const candidateData = window.HOUSE_CANDIDATES || {};
+const sourceData = window.HOUSE_SOURCES || {};
 const seats = data.seats || [];
 const candidates = data.candidates || [];
 const byState = new Map();
@@ -101,6 +102,7 @@ const leadPercent = (category) => {
       return '<2.5%';
   }
 };
+const isIncumbent = (seat, candidate) => candidate.role === 'incumbent' || (seat && seat.incumbent && candidate.candidate && seat.incumbent === candidate.candidate);
 for (const seat of seats) {
   const k = key(seat.state, seat.district);
   if (!byState.has(seat.state)) byState.set(seat.state, []);
@@ -111,10 +113,11 @@ byState.forEach(list => list.sort((a, b) => a.district - b.district));
 legend.innerHTML = ['Safe Democrat','Likely Democrat','Lean Democrat','Tossup','Lean/Tilt Republican','Likely Republican','Safe Republican'].map(c => `<span class="badge ${categoryClass(c)}">${c}</span>`).join('');
 
 function candidateCard(c, seat) {
-  const star = c.role === 'incumbent' ? '<span class="star">★</span> ' : '';
+  const star = isIncumbent(seat, c) ? '<span class="star">★</span> ' : '';
   const aipac = c.aipac_money || c.aipac_endorsed || c.aipac_superpack_support ? 'AIPAC: yes' : 'AIPAC: no';
+  const sourceTag = c.source || 'bundle';
   return `<a class="candidate" href="#${seatId(c.state,c.district)}/${encodeURIComponent(c.candidate)}"><strong>${star}${c.candidate}</strong></a>
-    <div class="muted">${c.party || ''} · ${aipac}${c.trump_endorsed && c.primary_lost ? ' · Trump-endorsed primary loss' : ''}</div>`;
+    <div class="muted">${c.party || ''} · ${aipac}${c.trump_endorsed && c.primary_lost ? ' · Trump-endorsed primary loss' : ''} · ${sourceTag}</div>`;
 }
 
 function renderHome() {
@@ -135,8 +138,8 @@ function renderState(state) {
       </div>
       <div class="candidate-list">${displayed.map(c => `
         <div class="candidate">
-          <div><strong>${c.role === 'incumbent' ? '<span class="star">★</span> ' : ''}${c.candidate}</strong></div>
-          <div class="muted">${c.party || ''}${c.aipac_money || c.aipac_endorsed ? ' · AIPAC funded/endorsed' : ''}${c.trump_endorsed && c.primary_lost ? ' · Trump-endorsed candidate lost primary' : ''}</div>
+          <div><strong>${isIncumbent(seat, c) ? '<span class="star">★</span> ' : ''}${c.candidate}</strong></div>
+          <div class="muted">${c.party || ''}${c.aipac_money || c.aipac_endorsed ? ' · AIPAC funded/endorsed' : ''}${c.trump_endorsed && c.primary_lost ? ' · Trump-endorsed candidate lost primary' : ''}${c.source ? ' · ' + c.source : ''}</div>
           <div><a href="#${seatId(c.state,c.district)}/${encodeURIComponent(c.candidate)}">Open candidate details</a></div>
         </div>`).join('') || '<div class="muted">No candidate rows available.</div>'}</div>
       <div class="muted">Candidates on file: ${(candidateNamesBySeat.get(key(seat.state, seat.district)) || []).join(', ') || 'none'}</div>
@@ -153,10 +156,11 @@ function renderCandidate(state, district, name) {
     <div class="seat-row">
       <div class="seat-head">
         <div><span class="badge ${categoryClass(seat.category)}">${seat.category}</span> <span class="badge party-${c.party || 'I'}">${c.party || ''}</span></div>
-        <div>${c.role === 'incumbent' ? '<span class="star">★ Incumbent</span>' : 'Challenger'}</div>
+        <div>${isIncumbent(seat, c) ? '<span class="star">★ Incumbent</span>' : 'Challenger'}</div>
       </div>
       <p class="muted">${c.additional_info || c.notes || ''}</p>
       <p>${c.aipac_money || c.aipac_endorsed ? 'AIPAC funded/endorsed: yes' : 'AIPAC funded/endorsed: no'}</p>
+      <p class="muted">Source: ${c.source || 'bundle'}</p>
       ${c.trump_endorsed && c.primary_lost ? '<p><strong>Note:</strong> Trump-endorsed candidate lost the primary.</p>' : ''}
       <div class="detail-box">
         <h3>Endorsements</h3>
