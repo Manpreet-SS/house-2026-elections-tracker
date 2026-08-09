@@ -41,6 +41,14 @@ for (const c of candidates) {
   if (!seatCandidates.has(k)) seatCandidates.set(k, []);
   seatCandidates.get(k).push(c);
 }
+const candidateBySeatParty = new Map();
+for (const c of candidates) {
+  if (!c.candidate || /Primary concluded|Nominee TBD|Incumbent\/Nominee TBD/.test(c.candidate)) continue;
+  const k = key(c.state, c.district);
+  if (!candidateBySeatParty.has(k)) candidateBySeatParty.set(k, []);
+  candidateBySeatParty.get(k).push(c);
+}
+const concludedPrimaryStates = new Set(['AZ','CO','FL','IA','KS','KY','LA','MD','ME','MI','MN','MO','MT','NC','NE','NH','NJ','NV','OH','PA','SC','TN','VA','WA','WI']);
 for (const seat of seats) {
   const k = key(seat.state, seat.district);
   if (!byState.has(seat.state)) byState.set(seat.state, []);
@@ -66,13 +74,14 @@ function renderState(state) {
   backBtn.hidden = false;
   const seatsForState = seats.filter(s => s.state === state).sort((a,b)=>a.district-b.district);
   view.innerHTML = `<h2>${fullStateName(state)} (${state})</h2>${seatsForState.map(seat => {
-    const candidatesForSeat = seatCandidates.get(key(seat.state, seat.district)) || [];
+    const candidatesForSeat = (concludedPrimaryStates.has(state) ? candidateBySeatParty.get(key(seat.state, seat.district)) : seatCandidates.get(key(seat.state, seat.district))) || [];
+    const displayed = candidatesForSeat.filter(Boolean).filter((c, i, arr) => arr.findIndex(x => x.candidate === c.candidate && x.party === c.party) === i).slice(0, 2);
     return `<div class="seat-row">
       <div class="seat-head">
         <div><span class="badge ${categoryClass(seat.category)}">${seatId(seat.state, seat.district)}</span> <strong>${seat.category}</strong></div>
         <div class="muted">${seat.notes || ''}</div>
       </div>
-      <div class="candidate-list">${candidatesForSeat.map(c => `
+      <div class="candidate-list">${displayed.map(c => `
         <div class="candidate">
           <div><strong>${c.role === 'incumbent' ? '<span class="star">★</span> ' : ''}${c.candidate}</strong></div>
           <div class="muted">${c.party || ''}${c.aipac_money || c.aipac_endorsed ? ' · AIPAC funded/endorsed' : ''}${c.trump_endorsed && c.primary_lost ? ' · Trump-endorsed candidate lost primary' : ''}</div>
