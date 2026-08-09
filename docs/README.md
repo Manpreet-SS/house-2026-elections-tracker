@@ -47,7 +47,7 @@ The site also shows exact lead bands:
 
 Seat pages also list the candidate names on file for each district.
 
-The site now reads seat-level candidate data from the exported `race_candidates` dataset so districts stop showing empty candidate rows.
+The site now reads seat-level candidate data from the exported candidate bundle in `site-data.js` so districts stop showing empty candidate rows.
 
 ## What’s in the database
 
