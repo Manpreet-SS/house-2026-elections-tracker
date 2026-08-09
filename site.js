@@ -23,6 +23,19 @@ const categoryClass = (c) => ({
   'Tilt Republican': 'lean-r',
 }[c] || 'tossup');
 
+const partyLabel = (party) => {
+  if (!party) return 'Independent';
+  if (party === 'D' || party === 'DEM' || party === 'Democratic') return 'Democrat';
+  if (party === 'R' || party === 'GOP' || party === 'Republican') return 'Republican';
+  return party;
+};
+
+const partyClass = (party) => {
+  if (party === 'D' || party === 'DEM' || party === 'Democratic') return 'party-D';
+  if (party === 'R' || party === 'GOP' || party === 'Republican') return 'party-R';
+  return 'party-I';
+};
+
 const STATE_NAMES = {
   AL: 'Alabama', AK: 'Alaska', AZ: 'Arizona', AR: 'Arkansas', CA: 'California', CO: 'Colorado',
   CT: 'Connecticut', DE: 'Delaware', FL: 'Florida', GA: 'Georgia', HI: 'Hawaii', ID: 'Idaho',
@@ -53,12 +66,13 @@ for (const c of candidates) {
 }
 const candidateBySeatParty = seatCandidates;
 const concludedPrimaryStates = new Set(['AZ','CO','FL','IA','KS','KY','LA','MD','ME','MI','MN','MO','MT','NC','NE','NH','NJ','NV','OH','PA','SC','TN','VA','WA','WI']);
+const winnersByState = {};
 
 const normalizeCategory = (category, party) => {
-  if (category === 'Lean/Tilt Republican' || category === 'Lean Republican') return 'Likely Republican';
-  if (category === 'Lean Democrat') return 'Likely Democrat';
-  if (category === 'Tilt Republican') return 'Tossup';
-  if (category === 'Tilt Democrat') return 'Tossup';
+  if (category === 'Lean Democrat') return 'Lean/Tilt Democrat';
+  if (category === 'Lean Republican') return 'Lean/Tilt Republican';
+  if (category === 'Tilt Democrat') return 'Lean/Tilt Democrat';
+  if (category === 'Tilt Republican') return 'Lean/Tilt Republican';
   return category;
 };
 const safeForSameParty = (seat, candidatesForSeat) => {
@@ -106,7 +120,33 @@ const leadPercent = (category) => {
       return 'Tossup';
   }
 };
+const exactLead = (seat) => seat && seat.lead_percent ? `${seat.lead_percent}%` : null;
+const categoryLeadText = (seat) => exactLead(seat) || leadPercent(seat?.category);
 const isIncumbent = (seat, candidate) => candidate.role === 'incumbent' || (seat && seat.incumbent && candidate.candidate && seat.incumbent === candidate.candidate);
+
+const arizonaCandidates = {
+  1: [
+    { candidate: 'A. Shah', party: 'D', votes: 29002, pct: 39.4, winner: true },
+    { candidate: 'J. Feely', party: 'R', votes: 25267, pct: 34.4 }
+  ],
+  2: [{ candidate: 'J. Nez', party: 'D', votes: 0, pct: 0.0, winner: true }],
+  3: [{ candidate: 'Y. Ansari', party: 'D', votes: 0, pct: 0.0, winner: true }],
+  4: [
+    { candidate: 'G. Stanton', party: 'D', votes: 35551, pct: 62.3, winner: true },
+    { candidate: 'K. Newkirk', party: 'R', votes: 21544, pct: 37.7 }
+  ],
+  5: [
+    { candidate: 'E. Lee', party: 'D', votes: 30857, pct: 66.0, winner: true },
+    { candidate: 'C. James', party: 'R', votes: 9703, pct: 20.8 }
+  ],
+  6: [{ candidate: 'J. Mendoza', party: 'D', votes: 0, pct: 0.0, winner: true }],
+  7: [{ candidate: 'A. Grijalva', party: 'D', votes: 0, pct: 0.0, winner: true }],
+  8: [
+    { candidate: 'B. Greene-Placentia', party: 'D', votes: 31312, pct: 65.7, winner: true },
+    { candidate: 'R. Keeler', party: 'R', votes: 16324, pct: 34.3 }
+  ],
+  9: [{ candidate: 'D. Sterbinsky', party: 'D', votes: 0, pct: 0.0, winner: true }]
+};
 for (const seat of seats) {
   const k = key(seat.state, seat.district);
   if (!byState.has(seat.state)) byState.set(seat.state, []);
@@ -120,8 +160,8 @@ function candidateCard(c, seat) {
   const star = isIncumbent(seat, c) ? '<span class="star">★</span> ' : '';
   const aipac = c.aipac_money || c.aipac_endorsed || c.aipac_superpack_support ? 'AIPAC: yes' : 'AIPAC: no';
   const sourceTag = c.source || 'bundle';
-  return `<a class="candidate" href="#${seatId(c.state,c.district)}/${encodeURIComponent(c.candidate)}"><strong>${star}${c.candidate}</strong></a>
-    <div class="muted">${c.party || ''} · ${aipac}${c.trump_endorsed && c.primary_lost ? ' · Trump-endorsed primary loss' : ''} · ${sourceTag}</div>`;
+  return `<a class="candidate" href="#${seatId(c.state,c.district)}/${encodeURIComponent(c.candidate)}"><strong class="${partyClass(c.party)}">${star}${c.candidate}</strong></a>
+    <div class="muted">${partyLabel(c.party)} · ${aipac}${c.trump_endorsed && c.primary_lost ? ' · Trump-endorsed primary loss' : ''} · ${sourceTag}</div>`;
 }
 
 function renderHome() {
@@ -134,17 +174,19 @@ function renderState(state) {
   const seatsForState = seats.filter(s => s.state === state).sort((a,b)=>a.district-b.district);
   view.innerHTML = `<h2>${fullStateName(state)} (${state})</h2>${seatsForState.map(seat => {
     const candidatesForSeat = (concludedPrimaryStates.has(state) ? candidateBySeatParty.get(key(seat.state, seat.district)) : seatCandidates.get(key(seat.state, seat.district))) || [];
-    const displayed = candidatesForSeat.filter(Boolean).filter((c, i, arr) => arr.findIndex(x => x.candidate === c.candidate && x.party === c.party) === i).slice(0, 2);
+    const displayed = state === 'AZ'
+      ? (arizonaCandidates[seat.district] || []).filter(c => c.winner || c.party === 'D' || c.party === 'R').slice(0, 2)
+      : candidatesForSeat.filter(Boolean).filter((c, i, arr) => arr.findIndex(x => x.candidate === c.candidate && x.party === c.party) === i).slice(0, 2);
     const displayCategory = safeForSameParty(seat, displayed) || normalizeCategory(seat.category);
     return `<div class="seat-row">
       <div class="seat-head">
-        <div><span class="badge ${categoryClass(displayCategory)}">${seatId(seat.state, seat.district)}</span> <strong>${displayCategory}</strong> <span class="muted">Lead ${leadPercent(displayCategory)}</span></div>
+        <div><span class="badge ${categoryClass(displayCategory)}">${seatId(seat.state, seat.district)}</span> <strong>${displayCategory}</strong> <span class="muted">Lead ${categoryLeadText(seat)}</span></div>
         <div class="muted">${seat.notes || ''}</div>
       </div>
       <div class="candidate-list">${displayed.map(c => `
         <div class="candidate">
-          <div><strong class="party-${c.party || 'I'}">${isIncumbent(seat, c) ? '<span class="star">★</span> ' : ''}${c.candidate}</strong></div>
-          <div class="muted">${c.party || ''}${c.aipac_money || c.aipac_endorsed ? ' · AIPAC funded/endorsed' : ''}${c.trump_endorsed && c.primary_lost ? ' · Trump-endorsed candidate lost primary' : ''}</div>
+          <div><strong class="${partyClass(c.party)}">${isIncumbent(seat, c) ? '<span class="star">★</span> ' : ''}${c.candidate}</strong></div>
+          <div class="muted">${partyLabel(c.party)}${c.aipac_money || c.aipac_endorsed ? ' · AIPAC funded/endorsed' : ''}${c.trump_endorsed && c.primary_lost ? ' · Trump-endorsed candidate lost primary' : ''}</div>
           <div><a href="#${seatId(c.state,c.district)}/${encodeURIComponent(c.candidate)}">Open candidate details</a></div>
         </div>`).join('') || '<div class="muted">No candidate rows available.</div>'}</div>
       <div class="muted">Candidates on file: ${(candidateNamesBySeat.get(key(seat.state, seat.district)) || []).join(', ') || 'none'}</div>
@@ -162,20 +204,19 @@ function renderCandidate(state, district, name) {
       <div class="seat-head">
         <div>
           <div class="candidate-title">
-            ${isIncumbent(seat, c) ? '<span class="star">★</span> ' : ''}<strong class="party-${c.party || 'I'}">${c.candidate}</strong>
+            ${isIncumbent(seat, c) ? '<span class="star">★</span> ' : ''}<strong class="${partyClass(c.party)}">${c.candidate}</strong>
           </div>
-          <div><span class="badge party-${c.party || 'I'}">${c.party || ''}</span> <span class="badge ${categoryClass(seat.category)}">${seat.category}</span></div>
+          <div><span class="badge ${partyClass(c.party)}">${partyLabel(c.party)}</span> <span class="badge ${categoryClass(seat.category)}">${seat.category}</span></div>
         </div>
         <div>${c.aipac_money || c.aipac_endorsed ? '<span class="badge aipac">AIPAC funded/endorsed</span>' : '<span class="badge no-aipac">Not AIPAC backed</span>'}</div>
       </div>
       <p class="muted">${c.additional_info || c.notes || ''}</p>
       ${c.trump_endorsed && c.primary_lost ? '<p><strong>Note:</strong> Trump-endorsed candidate lost the primary.</p>' : ''}
       <div class="detail-box">
-        <h3>Endorsements</h3>
+        <h3>Endorsement</h3>
         <p>${c.endorsements || 'No endorsement data loaded yet.'}</p>
       </div>
       <div class="detail-box">
-        <h3>Endorsements</h3>
         <h3>Money & coverage</h3>
         <p>${c.corporate_pac_money || 'Top 5 corporate donors not loaded yet.'}</p>
         <p>${c.funds || 'Fundraising details not loaded yet.'}</p>

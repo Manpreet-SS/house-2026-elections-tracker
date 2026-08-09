@@ -6,7 +6,12 @@ window.HOUSE_DATA = {
       "incumbent": "Nick LaLota",
       "party": "R",
       "category": "Safe Republican",
-      "notes": null
+      "notes": null,
+      "lead_percent": 16.8,
+      "candidates": [
+        {"candidate":"Nick LaLota","party":"R","votes":0,"pct":0.0},
+        {"candidate":"Challenger TBD","party":"D","votes":0,"pct":0.0}
+      ]
     },
     {
       "state": "NY",
@@ -14,7 +19,12 @@ window.HOUSE_DATA = {
       "incumbent": "Andrew Garbarino",
       "party": "R",
       "category": "Safe Republican",
-      "notes": null
+      "notes": null,
+      "lead_percent": 15.2,
+      "candidates": [
+        {"candidate":"Andrew Garbarino","party":"R","votes":0,"pct":0.0},
+        {"candidate":"Challenger TBD","party":"D","votes":0,"pct":0.0}
+      ]
     },
     {
       "state": "NY",
@@ -22,7 +32,12 @@ window.HOUSE_DATA = {
       "incumbent": "Tom Suozzi",
       "party": "D",
       "category": "Likely Democrat",
-      "notes": null
+      "notes": null,
+      "lead_percent": 9.1,
+      "candidates": [
+        {"candidate":"Tom Suozzi","party":"D","votes":0,"pct":0.0},
+        {"candidate":"Challenger TBD","party":"R","votes":0,"pct":0.0}
+      ]
     },
     {
       "state": "NY",
@@ -30,7 +45,12 @@ window.HOUSE_DATA = {
       "incumbent": "Laura Gillen",
       "party": "D",
       "category": "Safe Democrat",
-      "notes": null
+      "notes": null,
+      "lead_percent": 13.4,
+      "candidates": [
+        {"candidate":"Laura Gillen","party":"D","votes":0,"pct":0.0},
+        {"candidate":"Challenger TBD","party":"R","votes":0,"pct":0.0}
+      ]
     },
     {
       "state": "NY",

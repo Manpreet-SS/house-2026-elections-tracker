@@ -2,12 +2,12 @@
 
 Open `index.html` in a browser to browse states, districts, and candidate detail cards from the exported data.
 
-## Files
+## Main files
 
-- `index.html` — main page shell
-- `site.css` — layout, colors, and candidate styling
-- `site.js` — state/district routing and candidate rendering
-- `site-data.js` — compiled seat and candidate data
+- `index.html`
+- `site.css`
+- `site.js`
+- `site-data.js`
 
 ## Notes
 
