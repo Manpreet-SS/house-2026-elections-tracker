@@ -61,6 +61,8 @@ Candidate party chips now use navy for Democrats and red for Republicans.
 
 Candidate names themselves now carry the party color background.
 
+Candidate detail pages now show the name at the top with party, endorsement details, and an AIPAC-backed badge when applicable.
+
 ## What’s in the database
 
 - Seat classifications for all 435 House districts

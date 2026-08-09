@@ -155,15 +155,22 @@ function renderCandidate(state, district, name) {
   view.innerHTML = `<h2>${seatId(state,district)} · ${c.candidate}</h2>
     <div class="seat-row">
       <div class="seat-head">
-        <div><span class="badge ${categoryClass(seat.category)}">${seat.category}</span> <span class="badge party-${c.party || 'I'}">${c.party || ''}</span></div>
-        <div>${isIncumbent(seat, c) ? '<span class="star">★ Incumbent</span>' : 'Challenger'}</div>
+        <div>
+          <div class="candidate-title">
+            ${isIncumbent(seat, c) ? '<span class="star">★</span> ' : ''}<strong class="party-${c.party || 'I'}">${c.candidate}</strong>
+          </div>
+          <div><span class="badge party-${c.party || 'I'}">${c.party || ''}</span> <span class="badge ${categoryClass(seat.category)}">${seat.category}</span></div>
+        </div>
+        <div>${c.aipac_money || c.aipac_endorsed ? '<span class="badge aipac">AIPAC funded/endorsed</span>' : '<span class="badge no-aipac">Not AIPAC backed</span>'}</div>
       </div>
       <p class="muted">${c.additional_info || c.notes || ''}</p>
-      <p>${c.aipac_money || c.aipac_endorsed ? 'AIPAC funded/endorsed: yes' : 'AIPAC funded/endorsed: no'}</p>
       ${c.trump_endorsed && c.primary_lost ? '<p><strong>Note:</strong> Trump-endorsed candidate lost the primary.</p>' : ''}
       <div class="detail-box">
         <h3>Endorsements</h3>
         <p>${c.endorsements || 'No endorsement data loaded yet.'}</p>
+      </div>
+      <div class="detail-box">
+        <h3>Endorsements</h3>
         <h3>Money & coverage</h3>
         <p>${c.corporate_pac_money || 'Top 5 corporate donors not loaded yet.'}</p>
         <p>${c.funds || 'Fundraising details not loaded yet.'}</p>
