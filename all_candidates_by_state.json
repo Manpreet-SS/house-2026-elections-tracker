@@ -1,0 +1,388 @@
+{
+  "TX": {
+    "1": {
+      "challenger": "Yolanda Prince",
+      "challenger_party": "Democratic"
+    },
+    "3": {
+      "challenger": "Evan Hunt",
+      "challenger_party": "Democratic"
+    },
+    "5": {
+      "challenger": "Chelsey Hockett",
+      "challenger_party": "Democratic"
+    },
+    "7": {
+      "challenger": "Alexander Hale",
+      "challenger_party": "Republican"
+    },
+    "9": {
+      "challenger": "Alex Mealer",
+      "challenger_party": "Republican"
+    },
+    "11": {
+      "challenger": "Claire Reynolds",
+      "challenger_party": "Democratic"
+    },
+    "13": {
+      "challenger": "Mark Nair",
+      "challenger_party": "Democratic"
+    },
+    "15": {
+      "challenger": "Bobby Pulido",
+      "challenger_party": "Democratic"
+    },
+    "17": {
+      "challenger": "Casey Shepard",
+      "challenger_party": "Democratic"
+    },
+    "19": {
+      "challenger": "Kyle Rable",
+      "challenger_party": "Democratic"
+    },
+    "21": {
+      "challenger": "Kristin Hook",
+      "challenger_party": "Democratic"
+    },
+    "23": {
+      "challenger": "Katy Padilla Stout",
+      "challenger_party": "Democratic"
+    },
+    "25": {
+      "challenger": "Roger Williams",
+      "challenger_party": "Republican"
+    },
+    "27": {
+      "challenger": "Tanya Lloyd",
+      "challenger_party": "Democratic"
+    },
+    "29": {
+      "challenger": "Martha Fierro",
+      "challenger_party": "Republican"
+    },
+    "31": {
+      "challenger": "Justin Early",
+      "challenger_party": "Democratic"
+    },
+    "33": {
+      "challenger": "Patrick Gillespie",
+      "challenger_party": "Republican"
+    },
+    "35": {
+      "challenger": "Carlos De La Cruz",
+      "challenger_party": "Republican"
+    },
+    "37": {
+      "challenger": "Lauren Pe\u00f1a",
+      "challenger_party": "Republican"
+    }
+  },
+  "NY": {
+    "1": {
+      "challenger": "Chris Gallant",
+      "challenger_party": "Democratic"
+    },
+    "3": {
+      "challenger": "Mike LiPetri",
+      "challenger_party": "Republican"
+    },
+    "5": {
+      "challenger": "George Marsh",
+      "challenger_party": "Republican"
+    },
+    "7": {
+      "challenger": "Claire Valdez",
+      "challenger_party": "Democratic"
+    },
+    "9": {
+      "challenger": "Joel Anabilah-Azumah",
+      "challenger_party": "Republican"
+    },
+    "11": {
+      "challenger": "Michael DeCillis",
+      "challenger_party": "Democratic"
+    },
+    "13": {
+      "challenger": null,
+      "challenger_party": null
+    },
+    "15": {
+      "challenger": "Ritchie Torres",
+      "challenger_party": "Democratic"
+    },
+    "17": {
+      "challenger": "Cait Conley",
+      "challenger_party": "Democratic"
+    },
+    "19": {
+      "challenger": "Peter Oberacker",
+      "challenger_party": "Republican"
+    },
+    "21": {
+      "challenger": "Blake Gendebien",
+      "challenger_party": "Democratic"
+    },
+    "23": {
+      "challenger": "Nick Langworthy",
+      "challenger_party": "Republican"
+    },
+    "25": {
+      "challenger": "Virginia McIntyre",
+      "challenger_party": "Republican"
+    }
+  },
+  "FL": {
+    "1": {
+      "challenger": null,
+      "challenger_party": null
+    },
+    "3": {
+      "challenger": null,
+      "challenger_party": null
+    },
+    "5": {
+      "challenger": null,
+      "challenger_party": null
+    },
+    "7": {
+      "challenger": null,
+      "challenger_party": null
+    },
+    "9": {
+      "challenger": null,
+      "challenger_party": null
+    },
+    "11": {
+      "challenger": null,
+      "challenger_party": null
+    },
+    "13": {
+      "challenger": null,
+      "challenger_party": null
+    },
+    "15": {
+      "challenger": null,
+      "challenger_party": null
+    },
+    "17": {
+      "challenger": null,
+      "challenger_party": null
+    },
+    "19": {
+      "challenger": null,
+      "challenger_party": null
+    },
+    "21": {
+      "challenger": null,
+      "challenger_party": null
+    },
+    "23": {
+      "challenger": null,
+      "challenger_party": null
+    },
+    "25": {
+      "challenger": null,
+      "challenger_party": null
+    },
+    "27": {
+      "challenger": null,
+      "challenger_party": null
+    }
+  },
+  "IL": {
+    "1": {
+      "challenger": "Christian Maxwell",
+      "challenger_party": "Republican"
+    },
+    "3": {
+      "challenger": "Angel Oakley",
+      "challenger_party": "Republican"
+    },
+    "5": {
+      "challenger": "Tommy Hanson",
+      "challenger_party": "Republican"
+    },
+    "7": {
+      "challenger": "Chad Koppie",
+      "challenger_party": "Republican"
+    },
+    "9": {
+      "challenger": "John Elleson",
+      "challenger_party": "Republican"
+    },
+    "11": {
+      "challenger": "Jeff Walter",
+      "challenger_party": "Republican"
+    },
+    "13": {
+      "challenger": "Jeff Wilson",
+      "challenger_party": "Republican"
+    },
+    "15": {
+      "challenger": "Jennifer Todd",
+      "challenger_party": "Democratic"
+    },
+    "17": {
+      "challenger": "Dillan Vancil",
+      "challenger_party": "Republican"
+    }
+  },
+  "NC": {
+    "1": {
+      "challenger": "Laurie Buckhout",
+      "challenger_party": "Republican"
+    },
+    "3": {
+      "challenger": "Raymond Smith Jr.",
+      "challenger_party": "Democratic"
+    },
+    "5": {
+      "challenger": "Chuck Hubbard",
+      "challenger_party": "Democratic"
+    },
+    "7": {
+      "challenger": "Kim Hardy",
+      "challenger_party": "Democratic"
+    },
+    "9": {
+      "challenger": "Richard Ojeda",
+      "challenger_party": "Democratic"
+    },
+    "11": {
+      "challenger": "Jamie Ager",
+      "challenger_party": "Democratic"
+    },
+    "13": {
+      "challenger": "Paul Barringer",
+      "challenger_party": "Democratic"
+    }
+  },
+  "NJ": {
+    "1": {
+      "challenger": "Damon Galdo",
+      "challenger_party": "Republican"
+    },
+    "3": {
+      "challenger": "Michael McGuire",
+      "challenger_party": "Republican"
+    },
+    "5": {
+      "challenger": "Sean Kirrane",
+      "challenger_party": "Republican"
+    },
+    "7": {
+      "challenger": "Rebecca Bennett",
+      "challenger_party": "Democratic"
+    },
+    "9": {
+      "challenger": "Rosie Pino",
+      "challenger_party": "Republican"
+    },
+    "11": {
+      "challenger": "Joe Hathaway",
+      "challenger_party": "Republican"
+    }
+  },
+  "OH": {
+    "1": {
+      "challenger": "Eric Conroy",
+      "challenger_party": "Republican"
+    },
+    "3": {
+      "challenger": "Cleophus Dulaney",
+      "challenger_party": "Republican"
+    },
+    "5": {
+      "challenger": "Brian Shaver",
+      "challenger_party": "Democratic"
+    },
+    "7": {
+      "challenger": "Brian Poindexter",
+      "challenger_party": "Democratic"
+    },
+    "9": {
+      "challenger": "Derek Merrin",
+      "challenger_party": "Republican"
+    },
+    "11": {
+      "challenger": "Mike Kirchner",
+      "challenger_party": "Republican"
+    },
+    "13": {
+      "challenger": "Carey Coleman",
+      "challenger_party": "Republican"
+    },
+    "15": {
+      "challenger": "Don Leonard",
+      "challenger_party": "Democratic"
+    }
+  },
+  "GA": {
+    "1": {
+      "challenger": "Amanda Hollowell",
+      "challenger_party": "Democratic"
+    },
+    "3": {
+      "challenger": "Maura Keller",
+      "challenger_party": "Democratic"
+    },
+    "5": {
+      "challenger": "John Salvesen",
+      "challenger_party": "Republican"
+    },
+    "7": {
+      "challenger": "Anthony Kozycki",
+      "challenger_party": "Democratic"
+    },
+    "9": {
+      "challenger": "Caitlyn Gegen",
+      "challenger_party": "Democratic"
+    },
+    "11": {
+      "challenger": "Chris Harden",
+      "challenger_party": "Democratic"
+    },
+    "13": {
+      "challenger": "Jonathan Chavez",
+      "challenger_party": "Republican"
+    }
+  },
+  "PA": {
+    "1": {
+      "challenger": "Bob Harvie",
+      "challenger_party": "Democratic"
+    },
+    "3": {
+      "challenger": "Chris Rabb",
+      "challenger_party": "Democratic"
+    },
+    "5": {
+      "challenger": "Nicholas Manganaro",
+      "challenger_party": "Republican"
+    },
+    "7": {
+      "challenger": "Bob Brooks",
+      "challenger_party": "Democratic"
+    },
+    "9": {
+      "challenger": "Rachel Wallace",
+      "challenger_party": "Democratic"
+    },
+    "11": {
+      "challenger": "Nancy Mannion",
+      "challenger_party": "Democratic"
+    },
+    "13": {
+      "challenger": "Beth Farnham",
+      "challenger_party": "Democratic"
+    },
+    "15": {
+      "challenger": "Ray Bilger",
+      "challenger_party": "Democratic"
+    },
+    "17": {
+      "challenger": "Tony Guy",
+      "challenger_party": "Republican"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "NH": {
+    "1": {
+      "name": "Bella Spinosa",
+      "party": "Democratic"
+    },
+    "2": {
+      "name": "Tang Williams",
+      "party": "Republican"
+    }
+  },
+  "TN": {
+    "7": {
+      "name": "Van Epps",
+      "party": "Republican"
+    },
+    "8": {
+      "name": "Kristi Burke",
+      "party": "Democratic"
+    }
+  },
+  "WV": {
+    "75": {
+      "name": "Spears Tomana",
+      "party": "Democratic"
+    }
+  }
+}

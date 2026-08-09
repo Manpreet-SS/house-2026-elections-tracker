@@ -1,0 +1,13 @@
+Texas 2026 Nominees (from Wikipedia parsing needed)
+Pattern: District# | D Nominee | R Nominee
+
+Florida 2026 Nominees (Primary Aug 18, 2026)  
+NOTE: As of Aug 8, Aug 18 primary hasn't occurred
+Need to use "presumptive nominees" (leading primary candidates)
+
+Strategy:
+1. Quick fetch of TX complete data
+2. Quick fetch of FL presumptive nominees  
+3. Batch update both states
+4. Continue with remaining time/tokens
+
