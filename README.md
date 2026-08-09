@@ -177,7 +177,7 @@ If you use this data in research or publication:
 
 ```
 House 2026 Elections Tracker
-https://github.com/[username]/house-2026-elections-tracker
+https://github.com/Manpreet-SS/house-2026-elections-tracker
 Accessed: August 9, 2026
 ```
 
