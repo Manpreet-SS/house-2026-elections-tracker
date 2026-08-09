@@ -1,4 +1,5 @@
 const data = window.HOUSE_DATA || { seats: [], candidates: [] };
+const candidateData = window.HOUSE_CANDIDATES || {};
 const seats = data.seats || [];
 const candidates = data.candidates || [];
 const byState = new Map();
@@ -39,20 +40,17 @@ const key = (s, d) => `${s}|${String(d)}`;
 
 const seatCandidates = new Map();
 const candidateNamesBySeat = new Map();
+for (const [seatKey, list] of Object.entries(candidateData)) {
+  const norm = seatKey.replace('|', '-');
+  seatCandidates.set(seatKey, list);
+  candidateNamesBySeat.set(seatKey, list.map(c => c.candidate).filter(Boolean));
+}
 for (const c of candidates) {
   const k = key(c.state, c.district);
-  if (!seatCandidates.has(k)) seatCandidates.set(k, []);
-  seatCandidates.get(k).push(c);
   if (!candidateNamesBySeat.has(k)) candidateNamesBySeat.set(k, []);
   if (c.candidate && !candidateNamesBySeat.get(k).includes(c.candidate)) candidateNamesBySeat.get(k).push(c.candidate);
 }
-const candidateBySeatParty = new Map();
-for (const c of candidates) {
-  if (!c.candidate || /Primary concluded|Nominee TBD|Incumbent\/Nominee TBD/.test(c.candidate)) continue;
-  const k = key(c.state, c.district);
-  if (!candidateBySeatParty.has(k)) candidateBySeatParty.set(k, []);
-  candidateBySeatParty.get(k).push(c);
-}
+const candidateBySeatParty = seatCandidates;
 const concludedPrimaryStates = new Set(['AZ','CO','FL','IA','KS','KY','LA','MD','ME','MI','MN','MO','MT','NC','NE','NH','NJ','NV','OH','PA','SC','TN','VA','WA','WI']);
 
 const normalizeCategory = (category, party) => {

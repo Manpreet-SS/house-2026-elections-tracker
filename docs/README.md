@@ -47,6 +47,8 @@ The site also shows exact lead bands:
 
 Seat pages also list the candidate names on file for each district.
 
+The site now reads seat-level candidate data from the exported `race_candidates` dataset so districts stop showing empty candidate rows.
+
 ## What’s in the database
 
 - Seat classifications for all 435 House districts
