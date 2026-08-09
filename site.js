@@ -85,7 +85,7 @@ const categoryLead = (category) => {
     case 'Tilt Republican':
       return '2.5% - 5%';
     default:
-      return '< 2.5%';
+      return 'Tossup';
   }
 };
 const leadPercent = (category) => {
@@ -103,7 +103,7 @@ const leadPercent = (category) => {
     case 'Tilt Republican':
       return '2.5%-5.0%';
     default:
-      return '<2.5%';
+      return 'Tossup';
   }
 };
 const isIncumbent = (seat, candidate) => candidate.role === 'incumbent' || (seat && seat.incumbent && candidate.candidate && seat.incumbent === candidate.candidate);

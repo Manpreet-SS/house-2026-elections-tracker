@@ -43,7 +43,7 @@ The site also shows exact lead bands:
 - Likely: 8.0%-12.5%
 - Lean: 5.0%-8.5% (site updated)
 - Tilt: 2.5%-5.0%
-- Tossup: <2.5%
+- Tossup: 0%-2.5%
 
 Seat pages also list the candidate names on file for each district.
 
