@@ -41,7 +41,7 @@ The site also shows exact lead bands:
 
 - Safe: 12.5%+
 - Likely: 8.0%-12.5%
-- Lean: 5.0%-8.5%
+- Lean: 5.0%-8.5% (site updated)
 - Tilt: 2.5%-5.0%
 - Tossup: <2.5%
 
