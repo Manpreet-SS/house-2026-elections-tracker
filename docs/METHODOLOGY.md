@@ -10,11 +10,11 @@ All 435 House seats are classified into 7 categories based on **projected lead p
 |----------|----------------|-----------------|
 | **Safe Democrat** | > +12.5% | Democrats expected to win comfortably |
 | **Likely Democrat** | +8% to +12.5% | Democrats favored but margins within reach |
-| **Lean Democrat** | +5% to +8% | Slight Democratic advantage |
+| **Lean Democrat** | +5% to +8.5% | Slight Democratic advantage |
 | **Tilt Democrat** | +2.5% to +5% | Very competitive; small Democratic edge |
 | **Tossup** | < +2.5% (< ±2.5%) | Genuinely competitive; margin of error |
 | **Tilt Republican** | +2.5% to +5% | Very competitive; small Republican edge |
-| **Lean Republican** | +5% to +8% | Slight Republican advantage |
+| **Lean Republican** | +5% to +8.5% | Slight Republican advantage |
 | **Likely Republican** | +8% to +12.5% | Republicans favored but margins within reach |
 | **Safe Republican** | > +12.5% | Republicans expected to win comfortably |
 

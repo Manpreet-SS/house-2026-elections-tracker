@@ -77,12 +77,9 @@ const categoryLead = (category) => {
     case 'Likely Democrat':
     case 'Likely Republican':
       return '8% - 12.5%';
-    case 'Lean/Tilt Democrat':
     case 'Lean Democrat':
-      return '5% - 8%';
-    case 'Lean/Tilt Republican':
     case 'Lean Republican':
-      return '5% - 8%';
+      return '5% - 8.5%';
     case 'Tilt Democrat':
       return '2.5% - 5%';
     case 'Tilt Republican':
@@ -101,7 +98,7 @@ const leadPercent = (category) => {
       return '8.0%-12.5%';
     case 'Lean Democrat':
     case 'Lean Republican':
-      return '5.0%-8.0%';
+      return '5.0%-8.5%';
     case 'Tilt Democrat':
     case 'Tilt Republican':
       return '2.5%-5.0%';
