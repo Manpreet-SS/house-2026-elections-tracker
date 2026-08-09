@@ -57,6 +57,8 @@ California seats are populated from NBC 2026 primary result screenshots and show
 
 Source labels are hidden next to party names and candidate details on the site.
 
+Candidate party chips now use navy for Democrats and red for Republicans.
+
 ## What’s in the database
 
 - Seat classifications for all 435 House districts
