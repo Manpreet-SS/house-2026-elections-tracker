@@ -13,14 +13,14 @@ Comprehensive 2026 U.S. House elections dataset with seat classifications, candi
 
 | File | Purpose |
 |---|---|
-| `race_data.db` | SQLite database with `race_seats` and `race_candidates` |
-| `Candidate_Data_Template.csv` | Research template |
-| `all_candidates_complete.json` | Full candidate dataset |
-| `all_candidates_by_state.json` | State-grouped candidate dataset |
-| `final_tbd_candidates.json` | Completion artifact |
-| `ALL_TBD_UPDATES.sql` | Candidate update script |
-| `ALL_TBD_UPDATES_COMPREHENSIVE.sql` | Full update script |
-| `analysis/sample_queries.sql` | Analysis queries |
+| `database/race_data.db` | SQLite database with `race_seats` and `race_candidates` |
+| `database/Candidate_Data_Template.csv` | Research template |
+| `database/all_candidates_complete.json` | Full candidate dataset |
+| `database/all_candidates_by_state.json` | State-grouped candidate dataset |
+| `database/final_tbd_candidates.json` | Completion artifact |
+| `database/ALL_TBD_UPDATES.sql` | Candidate update script |
+| `database/ALL_TBD_UPDATES_COMPREHENSIVE.sql` | Full update script |
+| `database/analysis/sample_queries.sql` | Analysis queries |
 | `database/schema.sql` | Schema definition |
 
 ## Classification buckets
@@ -50,7 +50,7 @@ Open the repository folder and use the SQLite database directly:
 
 ```bash
 cd /Users/manpreetsingh/.copilot/repos/house-2026-elections-tracker
-sqlite3 race_data.db
+sqlite3 database/race_data.db
 ```
 
 To inspect tables:
@@ -87,4 +87,3 @@ See `analysis/sample_queries.sql` for example queries.
 - PAC/AIPAC backfill for competitive seats
 - Stock trading analysis for incumbents
 - Optional website/dashboard layer on top of the CSV/SQLite data
-
