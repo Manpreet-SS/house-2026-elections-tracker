@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>2026 House Elections Tracker</title>
+    <link rel="stylesheet" href="./site.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <h1>2026 House Elections Tracker</h1>
+        <p>State map, seat pages, and candidate drill-downs from the compiled data.</p>
+      </div>
+      <div class="legend" id="legend"></div>
+    </header>
+
+    <main class="layout">
+      <aside class="panel">
+        <div class="panel-head">
+          <h2>States</h2>
+          <button id="backBtn" class="ghost" hidden>Back</button>
+        </div>
+        <div id="stateGrid" class="state-grid"></div>
+      </aside>
+
+      <section class="panel content">
+        <div id="view"></div>
+      </section>
+    </main>
+
+    <script src="./site-data.js"></script>
+    <script src="./site.js"></script>
+  </body>
+</html>
