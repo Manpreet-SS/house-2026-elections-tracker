@@ -3089,6 +3089,7 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Monica de la Cruz",
       "party": "R",
       "role": "incumbent",
+      "source": "bundle",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3103,9 +3104,26 @@ window.HOUSE_CANDIDATES = {
   ],
   "TX|23": [
     {
+      "candidate": "Gonzales",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    },
+    {
       "candidate": "Tony Gonzales",
       "party": "R",
       "role": "retiring incumbent",
+      "source": "bundle",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3123,6 +3141,7 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Henry Cuellar",
       "party": "D",
       "role": "incumbent",
+      "source": "bundle",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3140,6 +3159,7 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Vicente Gonzalez",
       "party": "D",
       "role": "incumbent",
+      "source": "bundle",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3154,9 +3174,26 @@ window.HOUSE_CANDIDATES = {
   ],
   "TX|35": [
     {
+      "candidate": "Casar",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    },
+    {
       "candidate": "Greg Casar",
       "party": "D",
       "role": "retiring incumbent",
+      "source": "bundle",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3171,9 +3208,26 @@ window.HOUSE_CANDIDATES = {
   ],
   "CA|1": [
     {
+      "candidate": "LaMalfa",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    },
+    {
       "candidate": "Doris Matsui",
       "party": "D",
       "role": "incumbent",
+      "source": "bundle",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3189,6 +3243,7 @@ window.HOUSE_CANDIDATES = {
       "candidate": "Kevin Kiley",
       "party": "R",
       "role": "challenger",
+      "source": "bundle",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3203,9 +3258,26 @@ window.HOUSE_CANDIDATES = {
   ],
   "CA|13": [
     {
+      "candidate": "Adam Gray",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    },
+    {
       "candidate": "John Duarte",
       "party": "R",
       "role": "incumbent",
+      "source": "bundle",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3220,9 +3292,26 @@ window.HOUSE_CANDIDATES = {
   ],
   "CA|22": [
     {
+      "candidate": "Valadao",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    },
+    {
       "candidate": "Jim Costa",
       "party": "D",
       "role": "incumbent",
+      "source": "bundle",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3237,9 +3326,26 @@ window.HOUSE_CANDIDATES = {
   ],
   "NY|3": [
     {
+      "candidate": "Tom Suozzi",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    },
+    {
       "candidate": "George Latimer",
       "party": "D",
       "role": "incumbent",
+      "source": "bundle",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,
@@ -3254,9 +3360,6759 @@ window.HOUSE_CANDIDATES = {
   ],
   "NY|17": [
     {
+      "candidate": "Michael Lawler",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    },
+    {
       "candidate": "Mike Lawler",
       "party": "R",
       "role": "incumbent",
+      "source": "bundle",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NY|1": [
+    {
+      "candidate": "Nick LaLota",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NY|2": [
+    {
+      "candidate": "Andrew Garbarino",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NY|4": [
+    {
+      "candidate": "Laura Gillen",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NY|5": [
+    {
+      "candidate": "Gregory Meeks",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NY|6": [
+    {
+      "candidate": "Grace Meng",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NY|7": [
+    {
+      "candidate": "Velazquez",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NY|8": [
+    {
+      "candidate": "Hakeem Jeffries",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NY|9": [
+    {
+      "candidate": "Yvette Clarke",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NY|10": [
+    {
+      "candidate": "Dan Goldman",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NY|11": [
+    {
+      "candidate": "Nicole Malliotakis",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NY|12": [
+    {
+      "candidate": "Nadler",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NY|13": [
+    {
+      "candidate": "Adriano Espaillat",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NY|14": [
+    {
+      "candidate": "Alexandria Ocasio-Cortez",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NY|15": [
+    {
+      "candidate": "Ritchie Torres",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NY|16": [
+    {
+      "candidate": "George Latimer",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NY|18": [
+    {
+      "candidate": "Pat Ryan",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NY|19": [
+    {
+      "candidate": "Josh Riley",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NY|20": [
+    {
+      "candidate": "Paul Tonko",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NY|21": [
+    {
+      "candidate": "Stefanik",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NY|22": [
+    {
+      "candidate": "John Mannion",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NY|23": [
+    {
+      "candidate": "Nick Langworthy",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NY|24": [
+    {
+      "candidate": "Claudia Tenney",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NY|25": [
+    {
+      "candidate": "Joseph Morelle",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NY|26": [
+    {
+      "candidate": "Tim Kennedy",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "MA|1": [
+    {
+      "candidate": "Richard Neal",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "MA|2": [
+    {
+      "candidate": "Jim McGovern",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "MA|3": [
+    {
+      "candidate": "Lori Trahan",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "MA|4": [
+    {
+      "candidate": "Jake Auchincloss",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "MA|5": [
+    {
+      "candidate": "Katherine Clark",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "MA|6": [
+    {
+      "candidate": "Seth Moulton",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "MA|7": [
+    {
+      "candidate": "Ayanna Pressley",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "MA|8": [
+    {
+      "candidate": "Stephen Lynch",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "MA|9": [
+    {
+      "candidate": "Bill Keating",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CO|1": [
+    {
+      "candidate": "DeGette",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CO|2": [
+    {
+      "candidate": "Joe Neguse",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CO|3": [
+    {
+      "candidate": "Jeff Hurd",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CO|4": [
+    {
+      "candidate": "Lauren Boebert",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CO|5": [
+    {
+      "candidate": "Jeff Crank",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CO|6": [
+    {
+      "candidate": "Jason Crow",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CO|7": [
+    {
+      "candidate": "Brittany Pettersen",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CO|8": [
+    {
+      "candidate": "Gabe Evans",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "AL|1": [
+    {
+      "candidate": "Moore",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "AL|2": [
+    {
+      "candidate": "Shomari Figures",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "AL|3": [
+    {
+      "candidate": "Mike Rogers",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "AL|4": [
+    {
+      "candidate": "Robert Aderholt",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "AL|5": [
+    {
+      "candidate": "Dale Strong",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "AL|6": [
+    {
+      "candidate": "Gary Palmer",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "AL|7": [
+    {
+      "candidate": "Terri Sewell",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "TX|1": [
+    {
+      "candidate": "Nathaniel Moran",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "TX|2": [
+    {
+      "candidate": "Crenshaw",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "TX|3": [
+    {
+      "candidate": "Keith Self",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "TX|4": [
+    {
+      "candidate": "Pat Fallon",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "TX|5": [
+    {
+      "candidate": "Lance Gooden",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "TX|6": [
+    {
+      "candidate": "Jake Ellzey",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "TX|7": [
+    {
+      "candidate": "Lizzie Fletcher",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "TX|8": [
+    {
+      "candidate": "Luttrell",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "TX|9": [
+    {
+      "candidate": "Green",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "TX|10": [
+    {
+      "candidate": "McCaul",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "TX|11": [
+    {
+      "candidate": "August Pfluger",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "TX|12": [
+    {
+      "candidate": "Craig Goldman",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "TX|13": [
+    {
+      "candidate": "Ronny Jackson",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "TX|14": [
+    {
+      "candidate": "Randy Weber",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "TX|16": [
+    {
+      "candidate": "Veronica Escobar",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "TX|17": [
+    {
+      "candidate": "Pete Sessions",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "TX|18": [
+    {
+      "candidate": "Sylvester Turner",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "TX|19": [
+    {
+      "candidate": "Arrington",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "TX|20": [
+    {
+      "candidate": "Joaquin Castro",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "TX|21": [
+    {
+      "candidate": "Roy",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "TX|22": [
+    {
+      "candidate": "Nehls",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "TX|24": [
+    {
+      "candidate": "Beth Van Duyne",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "TX|25": [
+    {
+      "candidate": "Johnson",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "TX|26": [
+    {
+      "candidate": "Brandon Gill",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "TX|27": [
+    {
+      "candidate": "Michael Cloud",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "TX|29": [
+    {
+      "candidate": "Silvia Garcia",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "TX|30": [
+    {
+      "candidate": "Crockett",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "TX|31": [
+    {
+      "candidate": "John Carter",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "TX|32": [
+    {
+      "candidate": "Johnson",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "TX|33": [
+    {
+      "candidate": "Veasey",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "TX|36": [
+    {
+      "candidate": "Brian Babin",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "TX|37": [
+    {
+      "candidate": "Lloyd Doggett",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "TX|38": [
+    {
+      "candidate": "Hunt",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|2": [
+    {
+      "candidate": "Jared Huffman",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|3": [
+    {
+      "candidate": "Kevin Kiley",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|4": [
+    {
+      "candidate": "Mike Thompson",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|5": [
+    {
+      "candidate": "Tom McClintock",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|6": [
+    {
+      "candidate": "Ami Bera",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|7": [
+    {
+      "candidate": "Doris Matsui",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|8": [
+    {
+      "candidate": "John Garamendi",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|9": [
+    {
+      "candidate": "Josh Harder",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|10": [
+    {
+      "candidate": "Mark DeSaulnier",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|11": [
+    {
+      "candidate": "Pelosi",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|12": [
+    {
+      "candidate": "Lateefah Simon",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|14": [
+    {
+      "candidate": "Swalwell",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|15": [
+    {
+      "candidate": "Kevin Mullin",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|16": [
+    {
+      "candidate": "Sam Liccardo",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|17": [
+    {
+      "candidate": "Ro Khanna",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|18": [
+    {
+      "candidate": "Zoe Lofgren",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|19": [
+    {
+      "candidate": "Jimmy Panetta",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|20": [
+    {
+      "candidate": "Vince Fong",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|21": [
+    {
+      "candidate": "Jim Costa",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|23": [
+    {
+      "candidate": "Jay Obernolte",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|24": [
+    {
+      "candidate": "Salud Carbajal",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|25": [
+    {
+      "candidate": "Raul Ruiz",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|26": [
+    {
+      "candidate": "Brownley",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|27": [
+    {
+      "candidate": "George Whitesides",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|28": [
+    {
+      "candidate": "Judy Chu",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|29": [
+    {
+      "candidate": "Luz Rivas",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|30": [
+    {
+      "candidate": "Laura Friedman",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|31": [
+    {
+      "candidate": "Gil Cisneros",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|32": [
+    {
+      "candidate": "Brad Sherman",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|33": [
+    {
+      "candidate": "Pete Aguilar",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|34": [
+    {
+      "candidate": "Jimmy Gomez",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|35": [
+    {
+      "candidate": "Norma Torres",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|36": [
+    {
+      "candidate": "Ted Lieu",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|37": [
+    {
+      "candidate": "Sydney Kamlager",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|38": [
+    {
+      "candidate": "Sanchez",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|39": [
+    {
+      "candidate": "Mark Takano",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|40": [
+    {
+      "candidate": "Kim",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|41": [
+    {
+      "candidate": "Calvert",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|42": [
+    {
+      "candidate": "Robert Garcia",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|43": [
+    {
+      "candidate": "Maxine Waters",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|44": [
+    {
+      "candidate": "Nanette Barragan",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|45": [
+    {
+      "candidate": "Derek Tran",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|46": [
+    {
+      "candidate": "Lou Correa",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|47": [
+    {
+      "candidate": "David Min",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|48": [
+    {
+      "candidate": "Issa",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|49": [
+    {
+      "candidate": "Mike Levin",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|50": [
+    {
+      "candidate": "Scott Peters",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|51": [
+    {
+      "candidate": "Sara Jacobs",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CA|52": [
+    {
+      "candidate": "Juan Vargas",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "FL|1": [
+    {
+      "candidate": "Jimmy Patronis",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "FL|2": [
+    {
+      "candidate": "Dunn",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "FL|3": [
+    {
+      "candidate": "Kat Cammack",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "FL|4": [
+    {
+      "candidate": "Aaron Bean",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "FL|5": [
+    {
+      "candidate": "John Rutherford",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "FL|6": [
+    {
+      "candidate": "Randy Fine",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "FL|7": [
+    {
+      "candidate": "Cory Mills",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "FL|8": [
+    {
+      "candidate": "Mike Haridopolos",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "FL|10": [
+    {
+      "candidate": "Maxwell Frost",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "FL|11": [
+    {
+      "candidate": "Webster",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "FL|12": [
+    {
+      "candidate": "Gus Bilirakis",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "FL|13": [
+    {
+      "candidate": "Anna Paulina Luna",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "FL|15": [
+    {
+      "candidate": "Laurel Lee",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "FL|16": [
+    {
+      "candidate": "Buchanan",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "FL|17": [
+    {
+      "candidate": "Greg Steube",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "FL|18": [
+    {
+      "candidate": "Scott Franklin",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "FL|19": [
+    {
+      "candidate": "Donalds",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "FL|20": [
+    {
+      "candidate": "Sheila Cherfilus-McCormick",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "FL|21": [
+    {
+      "candidate": "Brian Mast",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "FL|22": [
+    {
+      "candidate": "Frankel",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "FL|23": [
+    {
+      "candidate": "Jared Moskowitz",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "FL|24": [
+    {
+      "candidate": "Wilson",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "FL|26": [
+    {
+      "candidate": "Mario Diaz-Balart",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "FL|27": [
+    {
+      "candidate": "Maria Elvira Salazar",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "PA|1": [
+    {
+      "candidate": "Brian Fitzpatrick",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "PA|2": [
+    {
+      "candidate": "Brendan Boyle",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "PA|3": [
+    {
+      "candidate": "Evans",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "PA|4": [
+    {
+      "candidate": "Madeleine Dean",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "PA|5": [
+    {
+      "candidate": "Mary Gay Scanlon",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "PA|6": [
+    {
+      "candidate": "Chrissy Houlahan",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "PA|7": [
+    {
+      "candidate": "Ryan Mackenzie",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "PA|8": [
+    {
+      "candidate": "Rob Bresnahan",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "PA|9": [
+    {
+      "candidate": "Dan Meuser",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "PA|10": [
+    {
+      "candidate": "Scott Perry",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "PA|11": [
+    {
+      "candidate": "Lloyd Smucker",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "PA|12": [
+    {
+      "candidate": "Summer Lee",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "PA|13": [
+    {
+      "candidate": "John Joyce",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "PA|14": [
+    {
+      "candidate": "Glenn Thompson",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "PA|15": [
+    {
+      "candidate": "Chris Deluzio",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "PA|16": [
+    {
+      "candidate": "Mike Kelly",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "OH|1": [
+    {
+      "candidate": "Greg Landsman",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "OH|2": [
+    {
+      "candidate": "David Taylor",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "OH|3": [
+    {
+      "candidate": "Joyce Beatty",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "OH|4": [
+    {
+      "candidate": "Jim Jordan",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "OH|5": [
+    {
+      "candidate": "Bob Latta",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "OH|6": [
+    {
+      "candidate": "Michael Rulli",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "OH|7": [
+    {
+      "candidate": "Max Miller",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "OH|8": [
+    {
+      "candidate": "Warren Davidson",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "OH|9": [
+    {
+      "candidate": "Marcy Kaptur",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "OH|10": [
+    {
+      "candidate": "Mike Turner",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "OH|11": [
+    {
+      "candidate": "Shontel Brown",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "OH|12": [
+    {
+      "candidate": "Troy Balderson",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "OH|13": [
+    {
+      "candidate": "Emilia Sykes",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "OH|14": [
+    {
+      "candidate": "David Joyce",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "AZ|1": [
+    {
+      "candidate": "Schweikert",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "AZ|2": [
+    {
+      "candidate": "Eli Crane",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "AZ|3": [
+    {
+      "candidate": "Yassamin Ansari",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "AZ|4": [
+    {
+      "candidate": "Greg Stanton",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "AZ|5": [
+    {
+      "candidate": "Biggs",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "AZ|6": [
+    {
+      "candidate": "Juan Ciscomani",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "AZ|7": [
+    {
+      "candidate": "Raul Grijalva",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "AZ|8": [
+    {
+      "candidate": "Abraham Hamadeh",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "AZ|9": [
+    {
+      "candidate": "Paul Gosar",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "MI|1": [
+    {
+      "candidate": "Jack Bergman",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "MI|2": [
+    {
+      "candidate": "John Moolenaar",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "MI|3": [
+    {
+      "candidate": "Hillary Scholten",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "MI|4": [
+    {
+      "candidate": "Bill Huizenga",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "MI|5": [
+    {
+      "candidate": "Tim Walberg",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "MI|6": [
+    {
+      "candidate": "Debbie Dingell",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "MI|7": [
+    {
+      "candidate": "Tom Barrett",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "MI|8": [
+    {
+      "candidate": "Kristen Rivet",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "MI|9": [
+    {
+      "candidate": "Lisa McClain",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "MI|10": [
+    {
+      "candidate": "James",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NC|1": [
+    {
+      "candidate": "Don Davis",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NC|2": [
+    {
+      "candidate": "Deborah Ross",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NC|3": [
+    {
+      "candidate": "Greg Murphy",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NC|4": [
+    {
+      "candidate": "Valerie Foushee",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NC|5": [
+    {
+      "candidate": "Virginia Foxx",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NC|6": [
+    {
+      "candidate": "Addison McDowell",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NC|7": [
+    {
+      "candidate": "David Rouzer",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NC|8": [
+    {
+      "candidate": "Mark Harris",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NC|9": [
+    {
+      "candidate": "Richard Hudson",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NC|10": [
+    {
+      "candidate": "Pat Harrigan",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NC|11": [
+    {
+      "candidate": "Chuck Edwards",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NC|12": [
+    {
+      "candidate": "Alma Adams",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NC|13": [
+    {
+      "candidate": "Tim Moore",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NV|1": [
+    {
+      "candidate": "Dina Titus",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NV|2": [
+    {
+      "candidate": "Amodei",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NV|3": [
+    {
+      "candidate": "Susie Lee",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NV|4": [
+    {
+      "candidate": "Steven Horsford",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "GA|1": [
+    {
+      "candidate": "Carter",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "GA|2": [
+    {
+      "candidate": "Sanford Bishop",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "GA|3": [
+    {
+      "candidate": "Brian Jack",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "GA|4": [
+    {
+      "candidate": "Hank Johnson",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "GA|5": [
+    {
+      "candidate": "Nikema Williams",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "GA|6": [
+    {
+      "candidate": "Lucy McBath",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "GA|7": [
+    {
+      "candidate": "Rich McCormick",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "GA|8": [
+    {
+      "candidate": "Austin Scott",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "GA|9": [
+    {
+      "candidate": "Andrew Clyde",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "GA|10": [
+    {
+      "candidate": "Collins",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "GA|11": [
+    {
+      "candidate": "Loudermilk",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "GA|12": [
+    {
+      "candidate": "Rick Allen",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "GA|13": [
+    {
+      "candidate": "Scott",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "GA|14": [
+    {
+      "candidate": "Greene",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "IL|1": [
+    {
+      "candidate": "Jonathan Jackson",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "IL|2": [
+    {
+      "candidate": "Kelly",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "IL|3": [
+    {
+      "candidate": "Delia Ramirez",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "IL|4": [
+    {
+      "candidate": "Garc\u00eda",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "IL|5": [
+    {
+      "candidate": "Mike Quigley",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "IL|6": [
+    {
+      "candidate": "Sean Casten",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "IL|7": [
+    {
+      "candidate": "Davis",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "IL|8": [
+    {
+      "candidate": "Raj Krishn.",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "IL|9": [
+    {
+      "candidate": "Schakowsky",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "IL|10": [
+    {
+      "candidate": "Brad Schneider",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "IL|11": [
+    {
+      "candidate": "Bill Foster",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "IL|12": [
+    {
+      "candidate": "Mike Bost",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "IL|13": [
+    {
+      "candidate": "Nikki Budzinski",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "IL|14": [
+    {
+      "candidate": "Lauren Underwood",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "IL|15": [
+    {
+      "candidate": "Mary Miller",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "IL|16": [
+    {
+      "candidate": "Darin LaHood",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "IL|17": [
+    {
+      "candidate": "Eric Sorensen",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "WA|1": [
+    {
+      "candidate": "Suzan DelBene",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "WA|2": [
+    {
+      "candidate": "Rick Larsen",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "WA|3": [
+    {
+      "candidate": "Marie Perez",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "WA|4": [
+    {
+      "candidate": "Newhouse",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "WA|5": [
+    {
+      "candidate": "Michael Baumgartner",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "WA|6": [
+    {
+      "candidate": "Emily Randall",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "WA|7": [
+    {
+      "candidate": "Pramila Jayapal",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "WA|8": [
+    {
+      "candidate": "Kim Schrier",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "WA|9": [
+    {
+      "candidate": "Adam Smith",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "WA|10": [
+    {
+      "candidate": "Marilyn Strickland",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "WI|1": [
+    {
+      "candidate": "Bryan Steil",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "WI|2": [
+    {
+      "candidate": "Mark Pocan",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "WI|3": [
+    {
+      "candidate": "Derrick Van Orden",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "WI|4": [
+    {
+      "candidate": "Gwenn Moore",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "WI|5": [
+    {
+      "candidate": "Scott Fitzgerald",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "WI|6": [
+    {
+      "candidate": "Glenn Grothman",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "WI|7": [
+    {
+      "candidate": "Tiffany",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "WI|8": [
+    {
+      "candidate": "Tony Wied",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "MN|1": [
+    {
+      "candidate": "Brad Finstad",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "MN|2": [
+    {
+      "candidate": "Craig",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "MN|3": [
+    {
+      "candidate": "Kelly Morrison",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "MN|4": [
+    {
+      "candidate": "Betty McCollum",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "MN|5": [
+    {
+      "candidate": "Ilhan Omar",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "MN|6": [
+    {
+      "candidate": "Tom Emmer",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "MN|7": [
+    {
+      "candidate": "Mischelle Fischbach",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "MN|8": [
+    {
+      "candidate": "Pete Stauber",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NH|1": [
+    {
+      "candidate": "Pappas",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NH|2": [
+    {
+      "candidate": "Maggie Goodlander",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NJ|1": [
+    {
+      "candidate": "Donald Norcross",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NJ|2": [
+    {
+      "candidate": "Jeff Van Drew",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NJ|3": [
+    {
+      "candidate": "Herb Conaway",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NJ|4": [
+    {
+      "candidate": "Chris Smith",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NJ|5": [
+    {
+      "candidate": "Josh Gottheimer",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NJ|6": [
+    {
+      "candidate": "Frank Pallone",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NJ|7": [
+    {
+      "candidate": "Thomas Kean",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NJ|8": [
+    {
+      "candidate": "Rob Menendez",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NJ|9": [
+    {
+      "candidate": "Nellie Pou",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NJ|10": [
+    {
+      "candidate": "LaMonica McIver",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NJ|11": [
+    {
+      "candidate": "Sherrill",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NJ|12": [
+    {
+      "candidate": "Coleman",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "RI|1": [
+    {
+      "candidate": "Gabe Amo",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "RI|2": [
+    {
+      "candidate": "Seth Magaziner",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "MD|1": [
+    {
+      "candidate": "Andrew P. Harris",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "MD|2": [
+    {
+      "candidate": "Johnny Olszewski",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "MD|3": [
+    {
+      "candidate": "Sarah Elfreth",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "MD|4": [
+    {
+      "candidate": "Glenn Ivey",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "MD|5": [
+    {
+      "candidate": "Hoyer",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "MD|6": [
+    {
+      "candidate": "April McClain-Delaney",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "MD|7": [
+    {
+      "candidate": "Kweisi Mfume",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "MD|8": [
+    {
+      "candidate": "Jamie Raskin",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "DE|0": [
+    {
+      "candidate": "Sarah McBride",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CT|1": [
+    {
+      "candidate": "John Larson",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CT|2": [
+    {
+      "candidate": "Joe Courtney",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CT|3": [
+    {
+      "candidate": "Rosa DeLauro",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CT|4": [
+    {
+      "candidate": "Jim Himes",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "CT|5": [
+    {
+      "candidate": "Jahana Hayes",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "KS|1": [
+    {
+      "candidate": "Tracey Mann",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "KS|2": [
+    {
+      "candidate": "Derek Schmidt",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "KS|3": [
+    {
+      "candidate": "Sharice Davids",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NE|1": [
+    {
+      "candidate": "Mike Flood",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "NE|3": [
+    {
+      "candidate": "Adrian Smith",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "IA|1": [
+    {
+      "candidate": "Mariannette Miller-Meeks",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "IA|2": [
+    {
+      "candidate": "Hinson",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "IA|3": [
+    {
+      "candidate": "Zach Nunn",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "KY|1": [
+    {
+      "candidate": "James Comer",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "KY|2": [
+    {
+      "candidate": "Brett Guthrie",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "KY|3": [
+    {
+      "candidate": "Morgan McGarvey",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "KY|4": [
+    {
+      "candidate": "Thomas Massie",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "KY|5": [
+    {
+      "candidate": "Hal Rogers",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "OK|1": [
+    {
+      "candidate": "Hern",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "OK|2": [
+    {
+      "candidate": "Josh Brecheen",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "OK|3": [
+    {
+      "candidate": "Frank Lucas",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "OK|4": [
+    {
+      "candidate": "Tom Cole",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "OK|5": [
+    {
+      "candidate": "Stephanie Bice",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "WV|1": [
+    {
+      "candidate": "Carol Miller",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "WV|2": [
+    {
+      "candidate": "Riley Moore",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "ND|0": [
+    {
+      "candidate": "Julie Fedorchak",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "AK|0": [
+    {
+      "candidate": "Nick Begich",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "UT|1": [
+    {
+      "candidate": "Moore",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "UT|2": [
+    {
+      "candidate": "Celeste Maloy",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "UT|3": [
+    {
+      "candidate": "Mike Kennedy",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "UT|4": [
+    {
+      "candidate": "Burgess Owens",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "VT|0": [
+    {
+      "candidate": "Becca Balint",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "HI|1": [
+    {
+      "candidate": "Ed Case",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "HI|2": [
+    {
+      "candidate": "Jill Tokuda",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "ME|1": [
+    {
+      "candidate": "Chellie Pingree",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "ME|2": [
+    {
+      "candidate": "Golden",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "AR|1": [
+    {
+      "candidate": "Rick Crawford",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "AR|2": [
+    {
+      "candidate": "French Hill",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "AR|3": [
+    {
+      "candidate": "Steve Womack",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "AR|4": [
+    {
+      "candidate": "Bruce Westerman",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "LA|1": [
+    {
+      "candidate": "Steve Scalise",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "LA|2": [
+    {
+      "candidate": "Troy Carter",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "LA|3": [
+    {
+      "candidate": "Clay Higgins",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "LA|4": [
+    {
+      "candidate": "Mike Johnson",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "LA|5": [
+    {
+      "candidate": "Letlow",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "LA|6": [
+    {
+      "candidate": "Cleo Fields",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "MS|1": [
+    {
+      "candidate": "Trent Kelly",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "MS|2": [
+    {
+      "candidate": "Bennie Thompson",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "MS|3": [
+    {
+      "candidate": "Michael Guest",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "MS|4": [
+    {
+      "candidate": "Mike Ezell",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "SC|1": [
+    {
+      "candidate": "Mace",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "SC|2": [
+    {
+      "candidate": "Joe Wilson",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "SC|3": [
+    {
+      "candidate": "Sheri Biggs",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "SC|4": [
+    {
+      "candidate": "William Timmons",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "SC|5": [
+    {
+      "candidate": "Norman",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "SC|6": [
+    {
+      "candidate": "Jim Clyburn",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "SC|7": [
+    {
+      "candidate": "Russell Fry",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "TN|1": [
+    {
+      "candidate": "Diana Harshbarger",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "TN|2": [
+    {
+      "candidate": "Tim Burchett",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "TN|3": [
+    {
+      "candidate": "Chuck Fleischmann",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "TN|4": [
+    {
+      "candidate": "Scott DesJarlais",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "TN|5": [
+    {
+      "candidate": "Andy Ogles",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "TN|6": [],
+  "TN|7": [
+    {
+      "candidate": "Mark Green",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "TN|8": [
+    {
+      "candidate": "David Kustoff",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "TN|9": [
+    {
+      "candidate": "Cohen",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "VA|1": [
+    {
+      "candidate": "Rob Wittman",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "VA|2": [
+    {
+      "candidate": "Jennifer Kiggans",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "VA|3": [
+    {
+      "candidate": "Bobby Scott",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "VA|4": [
+    {
+      "candidate": "Jennifer McClellan",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "VA|5": [
+    {
+      "candidate": "Eugene Vindman",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "VA|6": [
+    {
+      "candidate": "Ben Cline",
+      "party": "R",
+      "role": "incumbent",
+      "source": "seat",
+      "endorsements": "",
+      "trump_endorsed": 0,
+      "primary_lost": 0,
+      "funds": "",
+      "open_secrets_url": "",
+      "fec_url": "",
+      "aipac_money": "",
+      "corporate_pac_money": "",
+      "stock_trading_notes": "",
+      "additional_info": ""
+    }
+  ],
+  "VA|7": [
+    {
+      "candidate": "Abigail Spanberger",
+      "party": "D",
+      "role": "incumbent",
+      "source": "seat",
       "endorsements": "",
       "trump_endorsed": 0,
       "primary_lost": 0,

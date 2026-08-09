@@ -51,6 +51,8 @@ The site now reads seat-level candidate data from the exported candidate bundle 
 
 If AP or NBC source rows are added to that bundle, the site will show those source-tagged candidate names and mark incumbents with `★`.
 
+The current bundle includes the available primary winners for every seat, plus starred incumbents from the seat export when needed.
+
 ## What’s in the database
 
 - Seat classifications for all 435 House districts
