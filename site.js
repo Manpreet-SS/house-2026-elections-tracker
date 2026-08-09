@@ -35,15 +35,18 @@ const fmt = (d) => String(d).padStart(2, '0');
 const seatId = (s, d) => `${s}-${fmt(d)}`;
 const key = (s, d) => `${s}|${String(d)}`;
 
-const candidateIndex = new Map(candidates.map(c => [key(c.state, c.district) + '|' + c.candidate, c]));
+const seatCandidates = new Map();
 for (const c of candidates) {
   const k = key(c.state, c.district);
-  if (!byState.has(c.state)) byState.set(c.state, []);
-  if (!byState.get(c.state).some(x => x.state === c.state && x.district === c.district)) {
-    byState.get(c.state).push(seats.find(s => s.state === c.state && String(s.district) === String(c.district)) || { state: c.state, district: c.district });
-  }
+  if (!seatCandidates.has(k)) seatCandidates.set(k, []);
+  seatCandidates.get(k).push(c);
 }
-byState.forEach(list => list.sort((a,b)=>a.district-b.district));
+for (const seat of seats) {
+  const k = key(seat.state, seat.district);
+  if (!byState.has(seat.state)) byState.set(seat.state, []);
+  byState.get(seat.state).push(seat);
+}
+byState.forEach(list => list.sort((a, b) => a.district - b.district));
 
 legend.innerHTML = ['Safe Democrat','Likely Democrat','Lean Democrat','Tossup','Lean/Tilt Republican','Likely Republican','Safe Republican'].map(c => `<span class="badge ${categoryClass(c)}">${c}</span>`).join('');
 
@@ -63,13 +66,13 @@ function renderState(state) {
   backBtn.hidden = false;
   const seatsForState = seats.filter(s => s.state === state).sort((a,b)=>a.district-b.district);
   view.innerHTML = `<h2>${fullStateName(state)} (${state})</h2>${seatsForState.map(seat => {
-    const seatCandidates = candidates.filter(c => c.state === seat.state && String(c.district) === String(seat.district));
+    const candidatesForSeat = seatCandidates.get(key(seat.state, seat.district)) || [];
     return `<div class="seat-row">
       <div class="seat-head">
         <div><span class="badge ${categoryClass(seat.category)}">${seatId(seat.state, seat.district)}</span> <strong>${seat.category}</strong></div>
         <div class="muted">${seat.notes || ''}</div>
       </div>
-      <div class="candidate-list">${seatCandidates.map(c => `
+      <div class="candidate-list">${candidatesForSeat.map(c => `
         <div class="candidate">
           <div><strong>${c.role === 'incumbent' ? '<span class="star">★</span> ' : ''}${c.candidate}</strong></div>
           <div class="muted">${c.party || ''}${c.aipac_money || c.aipac_endorsed ? ' · AIPAC funded/endorsed' : ''}${c.trump_endorsed && c.primary_lost ? ' · Trump-endorsed candidate lost primary' : ''}</div>
