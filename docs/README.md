@@ -45,6 +45,8 @@ The site also shows exact lead bands:
 - Tilt: 2.5%-5.0%
 - Tossup: <2.5%
 
+Seat pages also list the candidate names on file for each district.
+
 ## What’s in the database
 
 - Seat classifications for all 435 House districts

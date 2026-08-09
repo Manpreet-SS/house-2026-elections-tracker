@@ -38,10 +38,13 @@ const seatId = (s, d) => `${s}-${fmt(d)}`;
 const key = (s, d) => `${s}|${String(d)}`;
 
 const seatCandidates = new Map();
+const candidateNamesBySeat = new Map();
 for (const c of candidates) {
   const k = key(c.state, c.district);
   if (!seatCandidates.has(k)) seatCandidates.set(k, []);
   seatCandidates.get(k).push(c);
+  if (!candidateNamesBySeat.has(k)) candidateNamesBySeat.set(k, []);
+  if (c.candidate && !candidateNamesBySeat.get(k).includes(c.candidate)) candidateNamesBySeat.get(k).push(c.candidate);
 }
 const candidateBySeatParty = new Map();
 for (const c of candidates) {
@@ -138,6 +141,7 @@ function renderState(state) {
           <div class="muted">${c.party || ''}${c.aipac_money || c.aipac_endorsed ? ' · AIPAC funded/endorsed' : ''}${c.trump_endorsed && c.primary_lost ? ' · Trump-endorsed candidate lost primary' : ''}</div>
           <div><a href="#${seatId(c.state,c.district)}/${encodeURIComponent(c.candidate)}">Open candidate details</a></div>
         </div>`).join('') || '<div class="muted">No candidate rows available.</div>'}</div>
+      <div class="muted">Candidates on file: ${(candidateNamesBySeat.get(key(seat.state, seat.district)) || []).join(', ') || 'none'}</div>
     </div>`;
   }).join('')}`;
 }
