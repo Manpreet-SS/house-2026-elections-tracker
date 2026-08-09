@@ -51,7 +51,7 @@ The site now reads seat-level candidate data from the exported candidate bundle 
 
 If AP or NBC source rows are added to that bundle, the site will show those source-tagged candidate names and mark incumbents with `★`.
 
-The current bundle includes the available primary winners for every seat, plus a second entry placeholder when the current source data does not yet provide one.
+The current bundle keeps the two highest-priority candidate rows per seat from the source exports, preferring NBC/AP data when it is available.
 
 ## What’s in the database
 

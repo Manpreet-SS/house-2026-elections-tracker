@@ -3102,7 +3102,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -3114,7 +3114,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -3136,7 +3136,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -3148,7 +3148,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -3170,7 +3170,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -3182,7 +3182,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -3204,7 +3204,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -3216,7 +3216,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -3238,7 +3238,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -3250,7 +3250,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -3272,7 +3272,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -3284,7 +3284,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -3306,7 +3306,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -3318,7 +3318,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -3340,7 +3340,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -3352,7 +3352,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -3374,7 +3374,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -3386,7 +3386,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -3408,7 +3408,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -3420,7 +3420,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -3442,7 +3442,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -3454,7 +3454,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -3476,7 +3476,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -3488,7 +3488,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -3510,7 +3510,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -3522,7 +3522,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -3544,7 +3544,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -3556,7 +3556,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -3578,7 +3578,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -3590,7 +3590,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -3612,7 +3612,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -3624,7 +3624,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -3646,7 +3646,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -3658,7 +3658,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -3680,7 +3680,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -3692,7 +3692,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -3714,7 +3714,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -3726,7 +3726,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -3748,7 +3748,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -3760,7 +3760,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -3782,7 +3782,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -3794,7 +3794,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -3816,7 +3816,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -3828,7 +3828,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -3850,7 +3850,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -3862,7 +3862,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -3884,7 +3884,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -3896,7 +3896,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -3918,7 +3918,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -3930,7 +3930,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -3952,7 +3952,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -3964,7 +3964,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -3986,7 +3986,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -3998,7 +3998,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -4020,7 +4020,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -4032,7 +4032,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -4054,7 +4054,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -4066,7 +4066,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -4088,7 +4088,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -4100,7 +4100,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -4122,7 +4122,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -4134,7 +4134,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -4156,7 +4156,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -4168,7 +4168,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -4190,7 +4190,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -4202,7 +4202,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -4224,7 +4224,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -4236,7 +4236,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -4258,7 +4258,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -4270,7 +4270,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -4292,7 +4292,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -4304,7 +4304,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -4326,7 +4326,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -4338,7 +4338,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -4360,7 +4360,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -4372,7 +4372,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -4394,7 +4394,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -4406,7 +4406,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -4428,7 +4428,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -4440,7 +4440,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -4462,7 +4462,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -4474,7 +4474,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -4496,7 +4496,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -4508,7 +4508,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -4530,7 +4530,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -4542,7 +4542,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -4564,7 +4564,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -4576,7 +4576,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -4598,7 +4598,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -4610,7 +4610,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -4632,7 +4632,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -4644,7 +4644,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -4666,7 +4666,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -4678,7 +4678,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -4700,7 +4700,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -4712,7 +4712,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -4734,7 +4734,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -4746,7 +4746,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -4768,7 +4768,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -4780,7 +4780,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -4802,7 +4802,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -4814,7 +4814,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -4836,7 +4836,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -4848,7 +4848,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -4870,7 +4870,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -4882,7 +4882,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -4904,7 +4904,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -4916,7 +4916,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -4938,7 +4938,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -4950,7 +4950,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -4972,7 +4972,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -4984,7 +4984,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -5006,7 +5006,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -5018,7 +5018,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -5040,7 +5040,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -5052,7 +5052,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -5074,7 +5074,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -5086,7 +5086,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -5108,7 +5108,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -5120,7 +5120,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -5142,7 +5142,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -5154,7 +5154,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -5176,7 +5176,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -5188,7 +5188,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -5210,7 +5210,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -5222,7 +5222,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -5244,7 +5244,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -5256,7 +5256,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -5278,7 +5278,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -5290,7 +5290,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -5312,7 +5312,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -5324,7 +5324,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -5346,7 +5346,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -5358,7 +5358,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -5380,7 +5380,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -5392,7 +5392,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -5414,7 +5414,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -5426,7 +5426,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -5448,7 +5448,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -5460,7 +5460,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -5482,7 +5482,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -5494,7 +5494,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -5516,7 +5516,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -5528,7 +5528,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -5550,7 +5550,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -5562,7 +5562,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -5584,7 +5584,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -5596,7 +5596,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -5618,7 +5618,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -5630,7 +5630,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -5652,7 +5652,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -5664,7 +5664,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -5686,7 +5686,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -5698,7 +5698,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -5720,7 +5720,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -5732,7 +5732,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -5754,7 +5754,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -5766,7 +5766,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -5788,7 +5788,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -5800,7 +5800,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -5822,7 +5822,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -5834,7 +5834,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -5856,7 +5856,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -5868,7 +5868,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -5890,7 +5890,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -5902,7 +5902,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -5924,7 +5924,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -5936,7 +5936,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -5958,7 +5958,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -5970,7 +5970,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -5992,7 +5992,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -6004,7 +6004,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -6026,7 +6026,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -6038,7 +6038,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -6060,7 +6060,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -6072,7 +6072,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -6094,7 +6094,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -6106,7 +6106,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -6128,7 +6128,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -6140,7 +6140,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -6162,7 +6162,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -6174,7 +6174,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -6196,7 +6196,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -6208,7 +6208,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -6230,7 +6230,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -6242,7 +6242,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -6264,7 +6264,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -6276,7 +6276,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -6298,7 +6298,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -6310,7 +6310,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -6332,7 +6332,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -6344,7 +6344,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -6366,7 +6366,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -6378,7 +6378,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -6400,7 +6400,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -6412,7 +6412,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -6434,7 +6434,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -6446,7 +6446,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -6468,7 +6468,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -6480,7 +6480,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -6502,7 +6502,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -6514,7 +6514,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -6536,7 +6536,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -6548,7 +6548,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -6570,7 +6570,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -6582,7 +6582,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -6604,7 +6604,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -6616,7 +6616,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -6638,7 +6638,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -6650,7 +6650,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -6672,7 +6672,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -6684,7 +6684,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -6706,7 +6706,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -6718,7 +6718,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -6740,7 +6740,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -6752,7 +6752,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -6774,7 +6774,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -6786,7 +6786,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -6808,7 +6808,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -6820,7 +6820,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -6842,7 +6842,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -6854,7 +6854,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -6876,7 +6876,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -6888,7 +6888,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -6910,7 +6910,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -6922,7 +6922,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -6944,7 +6944,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -6956,7 +6956,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -6978,7 +6978,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -6990,7 +6990,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -7012,7 +7012,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -7024,7 +7024,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -7046,7 +7046,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -7058,7 +7058,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -7080,7 +7080,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -7092,7 +7092,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -7114,7 +7114,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -7126,7 +7126,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -7148,7 +7148,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -7160,7 +7160,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -7182,7 +7182,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -7194,7 +7194,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -7216,7 +7216,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -7228,7 +7228,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -7250,7 +7250,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -7262,7 +7262,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -7284,7 +7284,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -7296,7 +7296,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -7318,7 +7318,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -7330,7 +7330,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -7352,7 +7352,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -7364,7 +7364,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -7386,7 +7386,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -7398,7 +7398,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -7420,7 +7420,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -7432,7 +7432,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -7454,7 +7454,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -7466,7 +7466,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -7488,7 +7488,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -7500,7 +7500,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -7522,7 +7522,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -7534,7 +7534,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -7556,7 +7556,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -7568,7 +7568,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -7590,7 +7590,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -7602,7 +7602,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -7624,7 +7624,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -7636,7 +7636,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -7658,7 +7658,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -7670,7 +7670,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -7692,7 +7692,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -7704,7 +7704,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -7726,7 +7726,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -7738,7 +7738,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -7760,7 +7760,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -7772,7 +7772,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -7794,7 +7794,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -7806,7 +7806,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -7828,7 +7828,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -7840,7 +7840,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -7862,7 +7862,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -7874,7 +7874,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -7896,7 +7896,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -7908,7 +7908,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -7930,7 +7930,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -7942,7 +7942,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -7964,7 +7964,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -7976,7 +7976,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -7998,7 +7998,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -8010,7 +8010,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -8032,7 +8032,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -8044,7 +8044,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -8066,7 +8066,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -8078,7 +8078,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -8100,7 +8100,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -8112,7 +8112,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -8134,7 +8134,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -8146,7 +8146,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -8168,7 +8168,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -8180,7 +8180,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -8202,7 +8202,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -8214,7 +8214,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -8236,7 +8236,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -8248,7 +8248,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -8270,7 +8270,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -8282,7 +8282,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -8304,7 +8304,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -8316,7 +8316,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -8338,7 +8338,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -8350,7 +8350,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -8372,7 +8372,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -8384,7 +8384,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -8406,7 +8406,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -8418,7 +8418,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -8440,7 +8440,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -8452,7 +8452,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -8474,7 +8474,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -8486,7 +8486,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -8508,7 +8508,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -8520,7 +8520,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -8542,7 +8542,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -8554,7 +8554,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -8576,7 +8576,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -8588,7 +8588,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -8610,7 +8610,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -8622,7 +8622,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -8644,7 +8644,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -8656,7 +8656,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -8678,7 +8678,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -8690,7 +8690,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -8712,7 +8712,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -8724,7 +8724,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -8746,7 +8746,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -8758,7 +8758,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -8780,7 +8780,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -8792,7 +8792,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -8814,7 +8814,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -8826,7 +8826,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -8848,7 +8848,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -8860,7 +8860,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -8882,7 +8882,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -8894,7 +8894,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -8916,7 +8916,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -8928,7 +8928,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -8950,7 +8950,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -8962,7 +8962,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -8984,7 +8984,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -8996,7 +8996,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -9018,7 +9018,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -9030,7 +9030,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -9052,7 +9052,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -9064,7 +9064,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -9086,7 +9086,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -9098,7 +9098,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -9120,7 +9120,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -9132,7 +9132,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -9154,7 +9154,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -9166,7 +9166,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -9188,7 +9188,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -9200,7 +9200,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -9222,7 +9222,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -9234,7 +9234,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -9256,7 +9256,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -9268,7 +9268,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -9290,7 +9290,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -9302,7 +9302,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -9324,7 +9324,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -9336,7 +9336,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -9358,7 +9358,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -9370,7 +9370,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -9392,7 +9392,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -9404,7 +9404,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -9426,7 +9426,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -9438,7 +9438,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -9460,7 +9460,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -9472,7 +9472,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -9494,7 +9494,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -9506,7 +9506,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -9528,7 +9528,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -9540,7 +9540,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -9562,7 +9562,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -9574,7 +9574,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -9596,7 +9596,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -9608,7 +9608,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -9630,7 +9630,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -9642,7 +9642,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -9664,7 +9664,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -9676,7 +9676,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -9698,7 +9698,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -9710,7 +9710,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -9732,7 +9732,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -9744,7 +9744,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -9766,7 +9766,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -9778,7 +9778,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -9800,7 +9800,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -9812,7 +9812,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -9834,7 +9834,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -9846,7 +9846,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -9868,7 +9868,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -9880,7 +9880,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -9902,7 +9902,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -9914,7 +9914,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -9936,7 +9936,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -9948,7 +9948,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -9970,7 +9970,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -9982,7 +9982,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -10004,7 +10004,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -10016,7 +10016,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -10038,7 +10038,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -10050,7 +10050,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -10072,7 +10072,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -10084,7 +10084,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -10106,7 +10106,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -10118,7 +10118,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -10140,7 +10140,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -10152,7 +10152,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -10174,7 +10174,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -10186,7 +10186,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -10208,7 +10208,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -10220,7 +10220,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -10242,7 +10242,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -10254,7 +10254,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -10276,7 +10276,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -10288,7 +10288,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -10310,7 +10310,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -10322,7 +10322,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -10344,7 +10344,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -10356,7 +10356,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -10378,7 +10378,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -10390,7 +10390,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -10412,7 +10412,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -10424,7 +10424,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -10446,7 +10446,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -10458,7 +10458,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -10480,7 +10480,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -10492,7 +10492,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -10514,7 +10514,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -10526,7 +10526,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -10548,7 +10548,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -10560,7 +10560,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -10582,7 +10582,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -10594,7 +10594,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -10616,7 +10616,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -10628,7 +10628,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -10650,7 +10650,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -10662,7 +10662,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -10684,7 +10684,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -10696,7 +10696,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -10718,7 +10718,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -10730,7 +10730,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -10752,7 +10752,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -10764,7 +10764,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -10786,7 +10786,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -10798,7 +10798,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -10820,7 +10820,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -10832,7 +10832,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -10854,7 +10854,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -10866,7 +10866,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -10888,7 +10888,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -10900,7 +10900,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -10922,7 +10922,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -10934,7 +10934,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -10956,7 +10956,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -10968,7 +10968,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -10990,7 +10990,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -11002,7 +11002,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -11024,7 +11024,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -11036,7 +11036,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -11058,7 +11058,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -11070,7 +11070,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -11092,7 +11092,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -11104,7 +11104,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -11126,7 +11126,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -11138,7 +11138,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -11160,7 +11160,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -11172,7 +11172,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -11194,7 +11194,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -11206,7 +11206,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -11228,7 +11228,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -11240,7 +11240,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -11262,7 +11262,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -11274,7 +11274,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -11296,7 +11296,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -11308,7 +11308,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -11330,7 +11330,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -11342,7 +11342,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -11364,7 +11364,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -11376,7 +11376,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -11398,7 +11398,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -11410,7 +11410,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -11432,7 +11432,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -11444,7 +11444,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -11466,7 +11466,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -11478,7 +11478,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -11500,7 +11500,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -11512,7 +11512,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -11534,7 +11534,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -11546,7 +11546,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -11568,7 +11568,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -11580,7 +11580,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -11602,7 +11602,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -11614,7 +11614,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -11636,7 +11636,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -11648,7 +11648,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -11670,7 +11670,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -11682,7 +11682,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -11704,7 +11704,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -11716,7 +11716,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -11738,7 +11738,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -11750,7 +11750,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -11772,7 +11772,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -11784,7 +11784,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -11806,7 +11806,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -11818,7 +11818,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -11840,7 +11840,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -11852,7 +11852,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -11874,7 +11874,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -11886,7 +11886,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -11908,7 +11908,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -11920,7 +11920,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -11942,7 +11942,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -11954,7 +11954,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -11976,7 +11976,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -11988,7 +11988,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -12010,7 +12010,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -12022,7 +12022,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -12044,7 +12044,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -12056,7 +12056,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -12078,7 +12078,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -12090,7 +12090,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -12112,7 +12112,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -12124,7 +12124,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -12146,7 +12146,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -12158,7 +12158,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -12180,7 +12180,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -12192,7 +12192,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -12214,7 +12214,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -12226,7 +12226,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -12248,7 +12248,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -12260,7 +12260,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -12282,7 +12282,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -12294,7 +12294,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -12316,7 +12316,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -12328,7 +12328,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -12350,7 +12350,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -12362,7 +12362,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -12384,7 +12384,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -12396,7 +12396,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -12418,7 +12418,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -12430,7 +12430,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -12452,7 +12452,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -12464,7 +12464,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -12486,7 +12486,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -12498,7 +12498,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -12520,7 +12520,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -12532,7 +12532,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -12554,7 +12554,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -12566,7 +12566,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -12588,7 +12588,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -12600,7 +12600,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -12622,7 +12622,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -12634,7 +12634,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -12656,7 +12656,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -12668,7 +12668,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -12690,7 +12690,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -12702,7 +12702,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -12724,7 +12724,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -12736,7 +12736,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -12758,7 +12758,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -12770,7 +12770,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -12792,7 +12792,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -12804,7 +12804,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -12826,7 +12826,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -12838,7 +12838,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -12860,7 +12860,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -12872,7 +12872,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -12894,7 +12894,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -12906,7 +12906,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -12928,7 +12928,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -12940,7 +12940,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -12962,7 +12962,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -12974,7 +12974,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -12996,7 +12996,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -13008,7 +13008,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -13030,7 +13030,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -13042,7 +13042,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -13064,7 +13064,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -13076,7 +13076,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -13098,7 +13098,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -13110,7 +13110,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -13132,7 +13132,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -13144,7 +13144,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -13166,7 +13166,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -13178,7 +13178,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -13200,7 +13200,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -13212,7 +13212,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -13234,7 +13234,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -13246,7 +13246,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -13268,7 +13268,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -13280,7 +13280,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -13302,7 +13302,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -13314,7 +13314,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -13336,7 +13336,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -13348,7 +13348,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -13370,7 +13370,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -13382,7 +13382,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -13404,7 +13404,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -13416,7 +13416,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -13438,7 +13438,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -13450,7 +13450,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -13472,7 +13472,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -13484,7 +13484,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -13506,7 +13506,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -13518,7 +13518,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -13540,7 +13540,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -13552,7 +13552,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -13574,7 +13574,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -13586,7 +13586,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -13608,7 +13608,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -13620,7 +13620,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -13642,7 +13642,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -13654,7 +13654,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -13676,7 +13676,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -13688,7 +13688,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -13710,7 +13710,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -13722,7 +13722,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -13744,7 +13744,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -13756,7 +13756,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -13778,7 +13778,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -13790,7 +13790,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -13812,7 +13812,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -13824,7 +13824,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -13846,7 +13846,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -13858,7 +13858,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -13880,7 +13880,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -13892,7 +13892,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -13914,7 +13914,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -13926,7 +13926,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -13948,7 +13948,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -13960,7 +13960,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -13982,7 +13982,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -13994,7 +13994,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -14016,7 +14016,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -14028,7 +14028,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -14050,7 +14050,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -14062,7 +14062,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -14084,7 +14084,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -14096,7 +14096,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -14118,7 +14118,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -14130,7 +14130,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -14152,7 +14152,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -14164,7 +14164,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -14186,7 +14186,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -14198,7 +14198,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -14220,7 +14220,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -14232,7 +14232,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -14254,7 +14254,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -14266,7 +14266,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -14288,7 +14288,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -14300,7 +14300,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -14322,7 +14322,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -14334,7 +14334,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -14356,7 +14356,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -14368,7 +14368,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -14390,7 +14390,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -14402,7 +14402,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -14424,7 +14424,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -14436,7 +14436,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -14458,7 +14458,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -14470,7 +14470,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -14492,7 +14492,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -14504,7 +14504,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -14526,7 +14526,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -14538,7 +14538,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -14560,7 +14560,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -14572,7 +14572,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -14594,7 +14594,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -14606,7 +14606,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -14628,7 +14628,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -14640,7 +14640,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -14662,7 +14662,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -14674,7 +14674,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -14696,7 +14696,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -14708,7 +14708,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -14730,7 +14730,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -14742,7 +14742,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -14764,7 +14764,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -14776,7 +14776,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -14798,7 +14798,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -14810,7 +14810,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -14832,7 +14832,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -14844,7 +14844,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -14866,7 +14866,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -14878,7 +14878,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -14900,7 +14900,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -14912,7 +14912,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -14934,7 +14934,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -14946,7 +14946,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -14968,7 +14968,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -14980,7 +14980,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -15002,7 +15002,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -15014,7 +15014,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -15036,7 +15036,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -15048,7 +15048,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -15070,7 +15070,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -15082,7 +15082,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -15104,7 +15104,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -15116,7 +15116,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -15138,7 +15138,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -15150,7 +15150,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -15172,7 +15172,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -15184,7 +15184,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -15206,7 +15206,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -15218,7 +15218,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -15240,7 +15240,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -15252,7 +15252,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -15274,7 +15274,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -15286,7 +15286,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -15308,7 +15308,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -15320,7 +15320,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -15342,7 +15342,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -15354,7 +15354,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -15376,7 +15376,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -15388,7 +15388,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -15410,7 +15410,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -15422,7 +15422,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -15444,7 +15444,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -15456,7 +15456,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -15478,7 +15478,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -15490,7 +15490,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -15512,7 +15512,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -15524,7 +15524,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -15546,7 +15546,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -15558,7 +15558,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -15580,7 +15580,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -15592,7 +15592,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -15614,7 +15614,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -15626,7 +15626,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -15648,7 +15648,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -15660,7 +15660,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -15682,7 +15682,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -15694,7 +15694,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -15716,7 +15716,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -15728,7 +15728,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -15750,7 +15750,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -15762,7 +15762,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -15784,7 +15784,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -15796,13 +15796,13 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
   "TN|6": [
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -15814,7 +15814,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -15836,7 +15836,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -15848,7 +15848,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -15870,7 +15870,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -15882,7 +15882,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -15904,7 +15904,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -15916,7 +15916,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -15938,7 +15938,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -15950,7 +15950,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -15972,7 +15972,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -15984,7 +15984,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -16006,7 +16006,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -16018,7 +16018,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -16040,7 +16040,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -16052,7 +16052,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -16074,7 +16074,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -16086,7 +16086,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -16108,7 +16108,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -16120,7 +16120,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ],
@@ -16142,7 +16142,7 @@ window.HOUSE_CANDIDATES = {
       "source": "seat"
     },
     {
-      "candidate": "TBD / not yet in source",
+      "candidate": "NBC primary winner",
       "party": "",
       "role": "candidate",
       "endorsements": "",
@@ -16154,7 +16154,7 @@ window.HOUSE_CANDIDATES = {
       "aipac_money": "",
       "corporate_pac_money": "",
       "stock_trading_notes": "",
-      "additional_info": "Second candidate not present in current race_candidates source",
+      "additional_info": "NBC winner not available in current source bundle",
       "source": "placeholder"
     }
   ]
