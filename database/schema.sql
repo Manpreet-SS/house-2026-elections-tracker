@@ -39,3 +39,18 @@ CREATE INDEX idx_race_seats_category ON race_seats(category);
 CREATE INDEX idx_race_seats_state ON race_seats(state);
 CREATE INDEX idx_race_candidates_party ON race_candidates(party);
 CREATE INDEX idx_race_candidates_trump ON race_candidates(trump_endorsed);
+
+-- Legacy seat row staging table for reconstructed CSV imports
+CREATE TABLE seat_rows (
+    state TEXT,
+    district TEXT,
+    candidate TEXT,
+    party TEXT,
+    role TEXT,
+    seat_status TEXT,
+    endorsements TEXT,
+    corporate_pac_money TEXT,
+    aipac_money TEXT,
+    stock_trading_notes TEXT,
+    funds TEXT
+);

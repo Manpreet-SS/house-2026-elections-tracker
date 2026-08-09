@@ -73,7 +73,7 @@ See `analysis/sample_queries.sql` for example queries.
 ### Candidate data collection
 - Incumbents: official House records and race-to-wh.com
 - Challengers: primary results and nominee reporting
-- Endorsements: party committees, candidate sites, election pages
+- Endorsements: full Wikipedia-listed endorsements, party committees, candidate sites, election pages
 - PAC data: FEC and OpenSecrets
 
 ## Notes
@@ -81,6 +81,7 @@ See `analysis/sample_queries.sql` for example queries.
 - Unknown research fields were left blank rather than guessed.
 - Some category labels in the underlying data are split more finely than the 7 headline buckets.
 - The repository also includes supporting documentation and batch SQL files used during completion.
+- Use `database/endorsement_manual_fill.csv` to manually enter full endorsement lists.
 
 ## Roadmap
 
